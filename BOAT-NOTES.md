@@ -1,6 +1,8 @@
 # Two Loose Screws — boat project notes
 
-**Boat:** 2000 Regal 2760 Commodore · HIN RGMRC083C000 · $2,000 Copart auction (flood/swamp recovery)
+**Boat:** 2000 Regal 2760 Commodore · HIN RGMRC083C000 · $2,000 Copart auction.
+Insurance/auction record indicates a water loss, but **no physical evidence of submersion found** —
+no water line on the engines/starters, no silt. Treat "flood" as unconfirmed paperwork, verify per-system.
 **Power:** Twin Volvo Penta 4.3Gi — Gen-I 262 CID V6 (NOT the later Gen-III Vortec), serpentine belt, SX sterndrives.
 Both engines rotate clockwise viewed from the front; counter-rotation happens in the drive (LH prop on port).
 
