@@ -21,7 +21,15 @@ Both engines rotate clockwise viewed from the front; counter-rotation happens in
 - 2026-08 early: hand-turned engines (plugs out), read starter water lines, freed rotation
 - 2026-08-26: "Turning the 4.3Gi" field card (crank balancer access, ring-gear pry method)
 - 2026-08-29: **both new starters installed; LEFT (port) engine turns over on the key.**
-  Next: reinstall exhaust manifolds + risers/tops + sea water pump impeller.
+  Manifolds + risers/tops + impeller reinstall in progress.
+- 2026-08-29 oil check: **LEFT pan dry — no water. RIGHT pan has some water.**
+  One-wet/one-dry contradicts submersion (both pans would be wet) → working theory:
+  right engine took water through the exhaust path (bad riser gasket/rotted manifold
+  passage → cylinder → rings → pan), and that may BE the original insurance "water loss."
+  Verify: inspect right side's old riser gaskets/manifold water passages for the breach;
+  check freeze plugs/block sides both engines while exposed. After oil change + first run:
+  re-check dipstick — clean = legacy ingress (fixed); water returning = head gasket/crack,
+  compression test next.
 
 ## Exhaust reassembly — 4.3Gi torque specs
 
