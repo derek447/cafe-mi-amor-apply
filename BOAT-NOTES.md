@@ -1,8 +1,14 @@
 # Two Loose Screws — boat project notes
 
 **Boat:** 2000 Regal 2760 Commodore · HIN RGMRC083C000 · $2,000 Copart auction.
-Insurance/auction record indicates a water loss, but **no physical evidence of submersion found** —
-no water line on the engines/starters, no silt. Treat "flood" as unconfirmed paperwork, verify per-system.
+**Loss story (per insurance record):** during a bad Arkansas storm the bilge flooded, the bilge
+pump shorted, and the boat "sank" — but physical evidence says it never fully went under.
+Best fit: **settled stern-low / partially swamped** (freshwater). Water backed up the exhaust
+into the RIGHT engine via an open exhaust valve (→ water found in right pan; left pan dry).
+Old manifolds/risers inspected 2026-08-29: not rotted — ingress was backflow, not a breach.
+Consequences: inspect everything below the stern-low waterline (trim pumps, low connectors,
+transom electrics, drive tops/bellows); **replace bilge pump(s) + float switches + wiring before
+she floats** (the shorted pump is why the boat was lost) — add second pump + high-water alarm.
 **Power:** Twin Volvo Penta 4.3Gi — Gen-I 262 CID V6 (NOT the later Gen-III Vortec), serpentine belt, SX sterndrives.
 Both engines rotate clockwise viewed from the front; counter-rotation happens in the drive (LH prop on port).
 
