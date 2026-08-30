@@ -9,6 +9,12 @@ Old manifolds/risers inspected 2026-08-29: not rotted — ingress was backflow, 
 Consequences: inspect everything below the stern-low waterline (trim pumps, low connectors,
 transom electrics, drive tops/bellows); **replace bilge pump(s) + float switches + wiring before
 she floats** (the shorted pump is why the boat was lost) — add second pump + high-water alarm.
+2026-09-06 refinement: found a **shattered ~25W cheap solar panel** aboard → boat likely was NOT
+on shore power; storm scenario is probably **battery exhaustion** (days of rain, no solar, pump
+cycling until the battery died), not a literal pump short — pumps run fine on manual switch today.
+To-do: test float switches (lift by hand, helm switch off); load-test both batteries (assume
+sulfated); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
+pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
 **Power:** Twin Volvo Penta 4.3Gi — Gen-I 262 CID V6 (NOT the later Gen-III Vortec), serpentine belt, SX sterndrives.
 Both engines rotate clockwise viewed from the front; counter-rotation happens in the drive (LH prop on port).
 
