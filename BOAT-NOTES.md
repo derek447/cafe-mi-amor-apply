@@ -37,7 +37,7 @@ Both engines rotate clockwise viewed from the front; counter-rotation happens in
   re-check dipstick — clean = legacy ingress (fixed); water returning = head gasket/crack,
   compression test next.
 
-## Compression test — 2026-08-30 (engine side TBC)
+## Compression test — 2026-08-30 — PORT (left) engine, the clean-oil one
 
 Cold, plugs out, cranking, Pittsburgh 62622 gauge. Owner's numbering: left-front = 1, down the bank.
 **Left bank: 135 · 152 · 152 — Right bank: 152 · 137 · 145** (psi)
