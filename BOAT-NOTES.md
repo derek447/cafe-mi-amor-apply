@@ -37,6 +37,15 @@ Both engines rotate clockwise viewed from the front; counter-rotation happens in
   re-check dipstick — clean = legacy ingress (fixed); water returning = head gasket/crack,
   compression test next.
 
+## Compression test — 2026-08-30 (engine side TBC)
+
+Cold, plugs out, cranking, Pittsburgh 62622 gauge. Owner's numbering: left-front = 1, down the bank.
+**Left bank: 135 · 152 · 152 — Right bank: 152 · 137 · 145** (psi)
+Verdict: PASS — no dead holes, no adjacent-pair pattern, spread ~11%.
+Fresh-smelling fuel misted from plug holes during cranking (injectors firing — fuel pump
+fuse was not pulled): possible fuel wash means the 135/137 may read low. Retest the
+low holes after first heat cycles; expect them to climb toward 150.
+
 ## Exhaust reassembly — 4.3Gi torque specs
 
 No specs came with the gasket sets. Community/service consensus for Volvo Penta 4.3 GL/Gi:
