@@ -51,6 +51,20 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   After first run + heat cycles: check dipsticks for new water (expect none), second oil
   change to finish the flush.
 
+## Trim system — RESTORED 2026-08-31 (both drives, $0 parts)
+
+Symptom: both pumps dead from helm; motors proven good on direct 12V. Root causes found:
+- **Engine 1: main round 9-pin engine harness connector** making partial contact (same connector
+  that caused the earlier no-crank). Fixed by reseat. TO-DO: pin-height check, contact cleaner,
+  dielectric grease, firm seat.
+- **Engine 2: 55A trim breaker stuck** — no power at OUT side; percussion (channellocks) freed it.
+  **TO-DO (priority): REPLACE this breaker** (~$20, Sierra 18-69550 family / match stamping) —
+  a breaker that needed hammering will stick again. Channellocks stay aboard until swapped.
+Also found: trim sender bullet connectors unplugged at BOTH drives (explains gauges pegged UP) —
+replug; several factory-capped unused circuits (bail-clip caps = ignore). Manual drive control
+any time: jumper battery direct to pump motor wires (grn/wht + ppl/wht, swap polarity to reverse).
+Full research + wiring map: TRIM-TRACING.md.
+
 ## Compression test — 2026-08-30 — PORT (left) engine, the clean-oil one
 
 Cold, plugs out, cranking, Pittsburgh 62622 gauge. Owner's numbering: left-front = 1, down the bank.
