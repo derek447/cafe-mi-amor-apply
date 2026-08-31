@@ -55,6 +55,13 @@ low holes after first heat cycles; expect them to climb toward 150.
 
 No specs came with the gasket sets. Community/service consensus for Volvo Penta 4.3 GL/Gi:
 
+**OIL FILTER — CORRECTED 2026-08-31 (do not trust old notes/retail cross-listings):**
+The filter ON these engines is **Volvo 841750** — thread **M18x1.5 metric**, gasket 2.734" OD,
+can 2.99"x4.92". Correct crosses: **AC Delco PF52 / Fram PH3980 / STP S3980 / Super Tech ST3980 /
+Wix 51036 / NAPA 1036 / Sierra 18-7879**. The 3850559 / Wix 51061 / STP S5 / PH30 family is
+13/16"-16 imperial thread and DOES NOT FIT — earlier notes recommending it were wrong.
+Rule learned (3x today): the label on the old part outranks every cross-reference database.
+
 - **Manifold → cylinder head (graphite gasket, DRY, no sealant):**
   20–26 ft·lb. Start at center bolts, work outward. Two passes (snug ~15, final ~25).
 - **Riser/elbow → manifold (metallic water-passage gasket, DRY):**
