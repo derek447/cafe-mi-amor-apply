@@ -28,6 +28,13 @@ Both engines rotate clockwise viewed from the front; counter-rotation happens in
 - Bimini/camper tops session (2026-08-28): 4 canvas shops + strategy, ~$3–4k factory fit
 - Kohler 5E genset: oil refill + fuel sender gasket diagnosis (session 2026-08-27)
 
+**Hour meter (tach LCD), read 2026-08-31: 349.7 hrs** — ~14 hrs/yr over 24 seasons: a low-use,
+well-kept boat. Baseline for all hours-based maintenance going forward. (Cross-check the second
+tach's meter when convenient; matching totals = trustworthy.)
+Dash note: both Faria TRIM gauges peg "UP" regardless of actual drive position → open sender
+circuit(s), fix-later. Trim pump relay clicks, motor silent → suspect stuck brushes/corroded
+motor or relay contacts (transom sat low); hammer-tap test pending.
+
 ## Progress log
 
 - 2026-08 early: hand-turned engines (plugs out), read starter water lines, freed rotation
