@@ -117,3 +117,41 @@ Closest documented symptom-twin (motor good direct, new relays, 0V, no corrosion
 **SAFETY (hard rule):** generic automotive relays (JD1914/Tyco 330-070 footprint) plug right in but are **not SAE J1171 ignition-protected** — in a gasoline engine bay that's a fire/insurance problem. Marine-rated only for anything living in the compartment. Diode-suppressed automotive relays are also coil-polarity-sensitive where OEM isn't.
 
 **Factory drawings, if wanted:** trim/tilt schematic is at the **end of the SX drive workshop manual** (not the engine manual); era-correct 4.3Gi engine diagram (43GiPBYCCE, `43giBYr.pdf`) is attached in https://forums.iboats.com/threads/volvo-penta-4-3gi-cable-wiring-diagram.581821/ . The SX-A manual on ManualsLib is 2007+ — wrong generation for a 2000 SX-M.
+
+---
+
+# Trim Hunt — Round 2
+
+**Headline:** The "missing" protection isn't missing — it's a **50A red-button breaker hidden under a black snap-on plastic cover** on each engine's circuit-breaker bracket (VERIFIED from Volvo's own parts catalog). The 55A white fuse block is MerCruiser rigging — it does not exist on your package. Stop looking for it. But two hidden per-engine breakers don't kill both pumps on the same day — the both-at-once pattern points at one shared Regal boat-side feed, and the best forum match found exactly that: a blown boat-rigged fuse **at the battery bank**.
+
+---
+
+## 1. WHERE THE DEVICE IS on this boat (ranked)
+
+**1. On each engine, under the black cover on the circuit-breaker bracket — VERIFIED (Volvo EPC).**
+Volvo P/N 3854164 breaker, factory-annotated "50A, trim pump," mounts on bracket 3856186 (MY2000 WTR engines) under snap-on cover 3856764 — the same bracket where the **gray 10-pin engine cable** lands and the starter slave relay sits. It's a *cluster* of round breakers under one cover (50A trim, 20A + 6A fuel pump, 12.5A ECA), not a lone device. This is why you've looked straight past it. Follow the 10-pin cable to its bracket on each engine.
+- EPC "Engine Harness Bracket" (annotated 50A trim pump): https://www.volvopenta.com/shop/0/part-sections/54142992
+- Your MY2000 bracket/cover section: https://www.volvopenta.com/shop/0/part-sections/54142968
+
+**2. In/at the white box behind the mid-cabin berth (battery switches) — INFERRED, leading suspect for the shared kill.**
+White box = battery switch enclosure, VERIFIED for this hull family (2860 owner: https://forums.ybw.com/threads/regal-2860-electrics.153443/). Regal of this era does NOT route engine/trim power through helm or cabin panels (VERIFIED, same-gen 3760 manual p.84: https://www.manualslib.com/manual/849255/Regal-3760.html?page=84) and uses scattered inline fuses, not a central panel (http://www.regalownersforum.com/forum/viewtopic.php?f=5&t=2245). If both pump feeds share a stud, switch output, or paired inline holders here, that's your single point.
+
+**3. Right at the battery positives — INFERRED, backed by the best case match.**
+Twin-VP boat, both trims dead at once, all per-engine fuses/breakers good, culprit was a blown **40A boat-rigged fuse by the battery bank**: https://www.justanswer.com/boat/6lu3x-twin-2004-5-0-volvo-penta-gxi-sx-drives-trim-stopped.html — look for a stacked small-gauge red lead with an inline holder on a battery post.
+
+**Not** at the helm breaker panel (verified excluded), **not** a white block on the starter (that's the MerCruiser/older-VP setup — negative finding, verified from the full Volvo catalog for your engines).
+
+## 2. SINGLE-POINT CANDIDATES that kill both pumps (ranked)
+
+1. **Shared Regal feed at battery/switch end** (white box stud, switch output, or paired inline fuse holders). Test: meter it where the pump red wires terminate.
+2. **Battery switch position/failure** — a failed common post or loose output lug drops trim while starters crank from their own lugs. Test: 60 seconds — cycle/wiggle each switch, retest trim.
+3. **Both 50A breakers tripped** (possible if one shared helm-harness chafe short trips both — precedent: 1997 Regal 2200 wires pinched in throttle control: https://forums.iboats.com/threads/volvo-power-trim-suddenly-stops-working.667775/). Test: pop each cover, press red button, meter both studs. If both were tripped, hunt the chafe in the trim switch pod before calling it fixed.
+4. **Shared ground** — LOW priority: no forum case produced zero-volts-everywhere from ground; ground faults click relays instead.
+
+## 3. NEXT THREE MEASUREMENTS (in order, solo, meter, no key)
+
+1. **Pop the breaker-bracket cover on one engine** (follow the gray 10-pin cable to its bracket). Press the red button on the 50A breaker, then meter both studs to ground. Feed stud hot = starter-to-breaker is live; load stud dead with button pressed = bad breaker (~$15-25 aftermarket, Sierra 18-69550, before any $192 genuine buy). **Both studs dead = feed is upstream → go to step 2.**
+2. **Hand-trace the fat red wire aft from each trim pump to its termination.** No tools. Where it lands IS the feed point, and the fuse/holder lives within inches of that termination. If both reds converge — that junction is almost certainly your fault.
+3. **Open the white box + check battery posts.** Meter the backs of the switches (in vs. out studs, each position), every inline holder, and each battery positive for a stacked red lead. Cycle the switches and retest trim before condemning anything.
+
+**Buy nothing until one of these three condemns a specific part.** If it comes to parts: 50A breaker 3854164 (cross 88-11178A01 / Sierra 18-69550), 10A control fuse 967545 ($6.80), relays 3858809 ($46.60 ea) — all in stock genuine.
