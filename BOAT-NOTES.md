@@ -31,6 +31,8 @@ Both engines rotate clockwise viewed from the front; counter-rotation happens in
 **Hour meter (tach LCD), read 2026-08-31: 349.7 hrs** — ~14 hrs/yr over 24 seasons: a low-use,
 well-kept boat. Baseline for all hours-based maintenance going forward. (Cross-check the second
 tach's meter when convenient; matching totals = trustworthy.)
+**Kohler 5E genset hour meter: 92.0 hrs** (read 2026-08-31) — corroborates the ~14 hr/yr
+low-use story from an independent meter; genset baseline for service intervals.
 Dash note: both Faria TRIM gauges peg "UP" regardless of actual drive position → open sender
 circuit(s), fix-later. Trim pump relay clicks, motor silent → suspect stuck brushes/corroded
 motor or relay contacts (transom sat low); hammer-tap test pending.
