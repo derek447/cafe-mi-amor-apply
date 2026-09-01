@@ -92,6 +92,29 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
 - Port oil reads slightly over the full mark before first run — re-check after the first run
   (new dry filter takes some), pump a bit out only if still over.
 
+## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
+
+**Derek feels AC "juice" on the outdrive when the boat is on shore power (on the trailer).**
+That is a leak to the AC safety ground PLUS an open/poor ground path back to the outlet.
+In the water this is electric-shock-drowning territory for anyone swimming near the boat.
+**GATE: no dock shore power at Crystal Springs until the tests below pass.** Galvanic isolator
+does NOT address this. Deferred until engines are running; meanwhile: unplug before wrenching
+(drive, block, manifolds are all bonded and live).
+Prime suspect: the L6-30 → household adapter. L6-30 = 250 V, two hots + ground, NO neutral;
+a 2760 with a single 30 A inlet should be L5-30 (125 V, H-N-G). READ THE INLET STAMP. If it is
+truly L6-30 fed from a 120 V cord, the adapter is arbitrarily assigning hot/neutral to a
+two-hot panel. Second suspects (swamped stern-low): Xantrex charger leaking to case, water
+heater element, any AC box that went under, genset transfer switch bonding N-G on shore.
+Test sequence (boat on trailer): (1) 3-light tester on outlet, then every cord/adapter end —
+open ground / reversed polarity. (2) Plugged in, AC volts drive→screwdriver in wet dirt and
+drive→outlet ground pin; record. (3) Cord off the wall, still in the boat: ohms wall-end ground
+pin→engine block, want <1 Ω. (4) Same, main breaker on: ohms hot→ground and neutral→ground at
+wall end, both must be open; kill branch breakers one at a time to name the leaking circuit.
+(5) Clamp H+N together at the cord under power: any reading = leakage, marine limit 30 mA.
+A GFCI not tripping is NOT a pass (open ground → leak has no path until a person is one).
+Later, with the fix: galvanic isolator (ABYC A-28) in the green wire for dock life, and
+consider an ELCI breaker at the inlet.
+
 ## Trim system — RESTORED 2026-08-31 (both drives, $0 parts)
 
 Symptom: both pumps dead from helm; motors proven good on direct 12V. Root causes found:
