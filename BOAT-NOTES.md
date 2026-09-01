@@ -18,9 +18,12 @@ pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
-- **STARBOARD: MARINE POWER repower** (replacement engine, builder tag on engine — photograph
-  tag: model/serial/build date TBD). Hours unknown (its tach is dead — possibly never hooked up
-  post-repower). Explains: Carter aftermarket fuel pump, unused/capped harness circuits, dead tach.
+- **STARBOARD: Marine Power barcode sticker found on valve cover — repower POSSIBLE, NOT CONFIRMED.**
+  Engines look identical (but repowers transfer dress parts, so looks don't settle it).
+  VERIFY: (1) Volvo serial plate low on stbd flywheel housing near starter — present+era-correct
+  = original engine, sticker was a part/service; absent = repower. (2) Block casting date on
+  block side. (3) Photograph the barcode sticker — decode model/date from its text.
+  Stbd tach dead + Carter fuel pump + hours unknown either way.
   **PARTS RULE: verify starboard's consumables (oil filter thread! plugs!) against ITS OWN old
   parts/tag — do NOT assume it matches port.** Internal parts order by Marine Power spec.
 - Working theory (inferred): repower was recent at time of loss — fits fresh 7/8 fuel tank,
