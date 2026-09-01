@@ -100,6 +100,11 @@ In the water this is electric-shock-drowning territory for anyone swimming near 
 **GATE: no dock shore power at Crystal Springs until the tests below pass.** Galvanic isolator
 does NOT address this. Deferred until engines are running; meanwhile: unplug before wrenching
 (drive, block, manifolds are all bonded and live).
+Observation: tingle on the OUTDRIVE, none on the ENGINE. Most likely reading: same voltage on
+both, different reference — engine is touched from inside the boat (standing on fiberglass,
+no circuit), drive is touched from the dirt (earth-referenced). Alternate: drive lost its bond
+to the transom shield/engine. Separate them: AC volts earth→block vs earth→drive while plugged
+in; then ohms drive→block unplugged (want <1 Ω, else fix the bonding strap first).
 Prime suspect: the L6-30 → household adapter. L6-30 = 250 V, two hots + ground, NO neutral;
 a 2760 with a single 30 A inlet should be L5-30 (125 V, H-N-G). READ THE INLET STAMP. If it is
 truly L6-30 fed from a 120 V cord, the adapter is arbitrarily assigning hot/neutral to a
