@@ -15,8 +15,18 @@ cycling until the battery died), not a literal pump short — pumps run fine on 
 To-do: test float switches (lift by hand, helm switch off); load-test both batteries (assume
 sulfated); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
 pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
-**Power:** Twin Volvo Penta 4.3Gi — Gen-I 262 CID V6 (NOT the later Gen-III Vortec), serpentine belt, SX sterndrives.
+**Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
+- **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
+  tested 2026-08-30: 135-152 PASS.
+- **STARBOARD: MARINE POWER repower** (replacement engine, builder tag on engine — photograph
+  tag: model/serial/build date TBD). Hours unknown (its tach is dead — possibly never hooked up
+  post-repower). Explains: Carter aftermarket fuel pump, unused/capped harness circuits, dead tach.
+  **PARTS RULE: verify starboard's consumables (oil filter thread! plugs!) against ITS OWN old
+  parts/tag — do NOT assume it matches port.** Internal parts order by Marine Power spec.
+- Working theory (inferred): repower was recent at time of loss — fits fresh 7/8 fuel tank,
+  clean-smelling fuel, mid-service disconnections. Boat may carry a nearly-new engine.
 Both engines rotate clockwise viewed from the front; counter-rotation happens in the drive (LH prop on port).
+SX drives, serpentine belts.
 
 ## Artifacts (claude.ai/code)
 
