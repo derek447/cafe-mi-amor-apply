@@ -64,6 +64,34 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   After first run + heat cycles: check dipsticks for new water (expect none), second oil
   change to finish the flush.
 
+## FIRST ENGINE START — 2026-09-01 (on muffs, drives fully down, hatch open, blower on)
+
+- **STARBOARD started almost immediately on the first key.** Water flow at prop hub / idle relief
+  slots NOT yet confirmed — confirm before any more running (impeller rule: never run dry).
+- **PORT: no start on its own fuel; starts and runs on ether** → spark + compression good, problem
+  is fuel delivery. Throttle body very dirty. Injectors went from dripping varnished gas to
+  misting stale gas, engine tried to hold ~2000 rpm then died. **Water found in port's fuel/water
+  separator.** Working theory (inferred, fits the facts): boat sits at an angle; port pickup is on
+  the low side of the tank and draws the water layer; starboard's pickup sits in clean gas.
+- Action: pump the tank until jar samples show no water/phase layer. Tank hose was disconnected
+  at the port fuel module (the hose that runs to the tank, next to the separator), run out the
+  transom drain hole, **siphon into cans on the ground** (no pump, no sparks, gravity head from
+  the cockpit-sole tank to ground level). Prime with the extractor / a primer bulb — never by
+  mouth. If it will not flow: that is the tank's anti-siphon valve doing its job, not a clog
+  (needs pump suction; pull the valve at the tank fitting only for the flush, then refit).
+  If it siphons freely on its own: note it — there may be NO anti-siphon valve (required on a
+  gas boat; add one). Fallback = pull the WEMA sender (top of tank) and drop a tube to the tank
+  floor on the low corner — reaches below the pickup.
+- Port fuel module (casting 170-2624 FM 1) hose map — INFERRED from Gi module design, verify
+  by tracing each hose: tank supply IN + return TO tank (both head toward the tank), pressure
+  feed TO throttle body + regulator return FROM throttle body (both head to the engine top).
+  Fuel cooler water hoses (black) are separate if present.
+- Still to do before port runs on its own: new separator (Quicksilver 8M0154772) on arrival,
+  fill it with clean gas, several key-on prime cycles, flame arrestor ON before running,
+  lever at idle (neutral throttle release = round button at the lever pivot hub).
+- Port oil reads slightly over the full mark before first run — re-check after the first run
+  (new dry filter takes some), pump a bit out only if still over.
+
 ## Trim system — RESTORED 2026-08-31 (both drives, $0 parts)
 
 Symptom: both pumps dead from helm; motors proven good on direct 12V. Root causes found:
