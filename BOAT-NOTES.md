@@ -40,6 +40,14 @@ SX drives, serpentine belts.
 - Copart auction record: https://claude.ai/code/artifact/d4602e24-579e-481c-b065-d0f6ba0120af
 - Bimini/camper tops session (2026-08-28): 4 canvas shops + strategy, ~$3–4k factory fit
 - Kohler 5E genset: oil refill + fuel sender gasket diagnosis (session 2026-08-27)
+- **REGAL FACTORY OWNER'S MANUAL FOUND 2026-09-02: "Manual - 2760, 292, 3060, 3260.pdf"** (141 pp,
+  scanned/no text layer, 72 MB) in Regal's older-model archive (Canto). Also grabbed the
+  successor-hull manual "2465, 2665, 2765, 2860, 3260" (216 pp, text). Files live in the session
+  scratchpad (too big for git) — sent to Derek's phone. HOW TO RE-FETCH ANY REGAL MANUAL:
+  `curl https://regalboats.canto.com/rest/share/protected/MG26S` → returns share id (/s/J4HTN);
+  list: `rest/share/album/J4HTN/customview?type=document&size=1000&operator=and&time=1`
+  (56 manuals, every model 1990s–2010s); download: `rest/share/album/J4HTN/rest/binary/
+  document/<path-id>/download` (302 → signed CloudFront URL). 2760 id = ebps22k3f96vpbqiie55d7gs1j.
 
 **Hour meter (tach LCD), read 2026-08-31: 349.7 hrs** — ~14 hrs/yr over 24 seasons: a low-use,
 well-kept boat. Baseline for all hours-based maintenance going forward. (Cross-check the second
