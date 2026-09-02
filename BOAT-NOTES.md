@@ -212,8 +212,12 @@ fitting; any overboard Y-valve stays locked — Lake Ouachita is no-discharge.
 **UPDATE 2026-09-02 (field):** boat HAS a hose-thread DOCKSIDE inlet labeled WATER — on it, all
 taps + water heater work. Panel switches: WATER PRESSURE / HEAD / MACERATOR → this is Regal's
 **VacuFlush** setup, NOT a manual toilet. Water-pressure switch: lights dim (pump motor starts),
-no pressure → **tank is empty** (dockside inlet does not fill it). Find the key-cap deck fill
-labeled WATER (same style as FUEL), fill until it burps, open a tap to purge. VacuFlush (Regal
+no pressure → **tank is empty** (dockside inlet does not fill it). Side deck has only FUEL and WASTE key caps + the
+hose-thread WATER inlet. **The fresh-water deck fill is on the BOW** — Regal 2800 manual (sister
+hull): "the deck fill marked 'water' located on the bow" / "the fill is located at the port front
+bow" (inferred for the 2760). Dockside inlet has a check valve; it can never fill the tank. If
+no bow fill is found, follow the 1.5" fill hose from the tank top (tank amidships under the
+sole) to wherever it ends. Fill until it burps at the hull-side vent, open a tap to purge. VacuFlush (Regal
 manual ch. 6): fresh-water switch ON (tank is the head's water source) → HEAD switch = vacuum
 generator pump (runs ~2 min, then only after flushes) → lift foot pedal to add water → press
 pedal to floor 3 s to flush (pop is normal). No water to the bowl even on dockside = shutoff
