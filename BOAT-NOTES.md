@@ -209,7 +209,19 @@ Head: manual hand-pump marine head, intake seacock under/behind it (closed on tr
 holding tank; trailer test = pitcher of water in bowl, pump to tank, pump dry. Expect a rebuild
 kit (joker valve) after 2 years dry. Check holding-tank vent (dirt daubers) + pump-out deck
 fitting; any overboard Y-valve stays locked — Lake Ouachita is no-discharge.
-TO-DO: photo the pump and the head → identify models/kits.
+**UPDATE 2026-09-02 (field):** boat HAS a hose-thread DOCKSIDE inlet labeled WATER — on it, all
+taps + water heater work. Panel switches: WATER PRESSURE / HEAD / MACERATOR → this is Regal's
+**VacuFlush** setup, NOT a manual toilet. Water-pressure switch: lights dim (pump motor starts),
+no pressure → **tank is empty** (dockside inlet does not fill it). Find the key-cap deck fill
+labeled WATER (same style as FUEL), fill until it burps, open a tap to purge. VacuFlush (Regal
+manual ch. 6): fresh-water switch ON (tank is the head's water source) → HEAD switch = vacuum
+generator pump (runs ~2 min, then only after flushes) → lift foot pedal to add water → press
+pedal to floor 3 s to flush (pop is normal). No water to the bowl even on dockside = shutoff
+valve on the toilet supply line (under/behind toilet) or the pedal-operated water valve stuck
+after 2 yr dry (work the pedal, else replace). MACERATOR = overboard discharge pump via its
+own seacock, hold-to-run, seacock stays LOCKED CLOSED — pump-out station only on Ouachita.
+Pump location unknown (no 2760 drawing on file) — try under the companionway step, near tank.
+TO-DO: photo the pump, the toilet base/pedal, and the vacuum generator tank → confirm models.
 
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
 
