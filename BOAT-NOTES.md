@@ -192,6 +192,25 @@ Sister-boat listing (2001 2760, broker sheet) equipment list, INFERRED for ours:
 inlet (→ expect L5-30 125 V), 6-gal water heater with heat exchanger (120 V element = shore
 fault suspect), 2 bilge pumps, 2 batteries + 3-position switch.
 
+## Fresh water + head (started 2026-09-02)
+
+Spec sheet (2001 sister listing, inferred for ours): 27-gal water tank, pressure hot/cold,
+6-gal water heater w/ heat exchanger, transom shower, **manual toilet** + holding tank, tank
+monitor (waste + fresh). No dockside water inlet listed. Regal manual: deck fill with internal
+vent (burps when full), 12 V pressure pump on a dash switch "fresh water pump" (5 A fuse),
+pressure switch stops the pump. No changeover valve — if a CITY WATER hose-thread inlet exists
+it has a check valve, pressurizes the taps directly, does NOT fill the tank; never leave the
+boat on it unattended. Startup: switch on, open a tap to purge air. Runs-forever = empty tank /
+open tap / suction air leak; won't run = fuse, switch, stuck pressure switch (tap it).
+**Water heater: do NOT power the 120 V element until it is full AND the shore-ground test has
+passed** (it sat swamped; it is a shore-fault suspect). Sanitize before drinking: ~1/2 cup
+bleach in the full 27 gal, run every tap, sit 4 h, drain, refill, flush twice.
+Head: manual hand-pump marine head, intake seacock under/behind it (closed on trailer), waste to
+holding tank; trailer test = pitcher of water in bowl, pump to tank, pump dry. Expect a rebuild
+kit (joker valve) after 2 years dry. Check holding-tank vent (dirt daubers) + pump-out deck
+fitting; any overboard Y-valve stays locked — Lake Ouachita is no-discharge.
+TO-DO: photo the pump and the head → identify models/kits.
+
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
 
 **Derek feels AC "juice" on the outdrive when the boat is on shore power (on the trailer).**
