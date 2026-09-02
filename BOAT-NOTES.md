@@ -127,6 +127,12 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   do not feed it. No run beyond a few seconds without a hose on its intake** (impeller + rubber
   exhaust mixer cook dry). Power test when it runs: ~120 V at its breaker, then hold under a
   real load (heat gun / shop vac).
+  **Genset is LIQUID-COOLED, closed loop** (Kohler TP-5986 service manual, verified): Kawasaki
+  FD501D 2-cyl water-cooled, 3600 rpm; heat exchanger + recovery tank (3.0 qt + 8 oz antifreeze),
+  thermostat, rubber-impeller seawater pump on the generator end (impeller kit Kohler 359978),
+  water-cooled exhaust manifold + mixer; seawater inlet hose 3/4" ID; shutdowns: exhaust temp
+  215°F, coolant 232°F. Looks air-cooled because the FD501D has a fan/shroud. TO-DO: coolant
+  level/condition + bleed, impeller kit, check siphon break in the seawater line.
 - Still to do before port runs on its own: new separator (Quicksilver 8M0154772) on arrival,
   fill it with clean gas, several key-on prime cycles, flame arrestor ON before running,
   lever at idle (neutral throttle release = round button at the lever pivot hub).
