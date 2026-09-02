@@ -12,7 +12,10 @@ she floats** (the shorted pump is why the boat was lost) — add second pump + h
 2026-09-06 refinement: found a **shattered ~25W cheap solar panel** aboard → boat likely was NOT
 on shore power; storm scenario is probably **battery exhaustion** (days of rain, no solar, pump
 cycling until the battery died), not a literal pump short — pumps run fine on manual switch today.
-To-do: test float switches (lift by hand, helm switch off); load-test both batteries (assume
+To-do: **test float switches with BOTH helm switches AND the battery switch OFF** (lift by
+hand; must run → auto circuit is independent, fused direct to the battery; if not, find the
+inline fuse / rewire — manual says only "Aft Bilge 7 A / Fwd Bilge 7 A operates pump", nothing
+about the float circuit; two pumps: mid bilge under the stairs, aft in the engine area); load-test both batteries (assume
 sulfated); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
 pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
