@@ -106,6 +106,29 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
 - Port oil reads slightly over the full mark before first run — re-check after the first run
   (new dry filter takes some), pump a bit out only if still over.
 
+## Bilge blower — burning-wire smell when running (2026-09-01) → REPLACE, do not run
+
+Blower works but smells of hot insulation = motor windings/bearing cooking. In a gasoline
+compartment that is an ignition source in its own right. **Do not use it until replaced.**
+Blower ventilation is required by regs (USCG 33 CFR 183.610) — no blower = no lake.
+Location research (2026-09-01): Regal does not print the blower location in any 2760-era
+manual we can reach (Commodore 272/276/300/400 manual, 2000, 2300/2500/2550, 2700/2750,
+General Vessel manual all checked; Regal's older-model library is a JS app we cannot read;
+the 2860 successor manual on issuu is gone). What Regal DOES say, consistently: fresh air
+enters through the hull/deck vent shrouds; **a powered blower attached to duct work whose
+intake sits in the lower one-third of the bilge evacuates air to the atmosphere**; "check the
+ventilation ducts and black bilge hose"; blower switch at the helm, fuse marked Blower on the
+DC panel; ABYC/Regal blower wire = **yellow 12 AWG** (yellow/black is stereo memory).
+FIND IT: run the switch and follow the sound, or follow the flex duct from the hull-side/
+transom cowl vents inboard — the motor sits at the vent end, high on the compartment side.
+Twin-engine 2760 likely has two. When replacing: measure the duct ID first (3" vs 4"), buy
+ignition-protected (USCG/SAE J1171 on the label) inline blower, replace the duct if crushed/
+cracked, intake end must sit low in the bilge but above bilge water; check the yellow feed
+and ground for heat damage at the motor end; verify the helm fuse value matches the new motor.
+Sister-boat listing (2001 2760, broker sheet) equipment list, INFERRED for ours: 30 A shore
+inlet (→ expect L5-30 125 V), 6-gal water heater with heat exchanger (120 V element = shore
+fault suspect), 2 bilge pumps, 2 batteries + 3-position switch.
+
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
 
 **Derek feels AC "juice" on the outdrive when the boat is on shore power (on the trailer).**
