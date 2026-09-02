@@ -217,6 +217,23 @@ Head: manual hand-pump marine head, intake seacock under/behind it (closed on tr
 holding tank; trailer test = pitcher of water in bowl, pump to tank, pump dry. Expect a rebuild
 kit (joker valve) after 2 years dry. Check holding-tank vent (dirt daubers) + pump-out deck
 fitting; any overboard Y-valve stays locked — Lake Ouachita is no-discharge.
+**FROM THE 2760 FACTORY MANUAL (ch. 6, verified, pdf pp.101–106):** system = fresh water tank,
+deck fill + vent, monitor, pressure pump (35 psi), filter, **dockside water pressure regulator**,
+water heater. "The dockside water inlet allows an outside water supply to be connected to the
+inlet pressure valve by a hose... regulator allows only up to 35 psi... **This feature bypasses
+the boat's fresh water tank, filter, and pump.**" NEVER leave the boat unattended on dockside
+water. "**The fresh water tank deck fill is located on the port aft deck area.** Fresh water can
+be added to the tank by using a hose." Overboard vent on deck burps when full; "some models use
+a one piece fill/vent combo unit" (may not look like the FUEL/WASTE key caps). Layout drawing
+6-6: WATER TANK forward under the cabin sole, FRESH WATER PUMP just aft of it (= under the
+stairs, matches), WATER INLET + WATER VENT on the side deck amidships opposite the fuel fill,
+WATER PRESSURE REGULATOR (dockside inlet) at the transom corner near the transom shower,
+HOT WATER HEATER at the transom (**11 gal** per this manual, with engine heat-exchanger loop —
+hot water while cruising; red reset button under the panel cover; drain valve at the rear),
+HOLDING TANK aft with THRU-HULL VENT, MACERATOR under the mid-cabin floor, WASTE PUMP-OUT
+fitting on deck. Sanitize: 0.13 oz bleach per gallon of system capacity (~3.5 oz for 27 gal),
+4 h, drain, refill, flush. Water heater fill: tank full → pump on → open a hot tap until a
+steady stream → only then the heater breaker on the AC side (and only after the ground test).
 **UPDATE 2026-09-02 (field):** boat HAS a hose-thread DOCKSIDE inlet labeled WATER — on it, all
 taps + water heater work. Panel switches: WATER PRESSURE / HEAD / MACERATOR → this is Regal's
 **VacuFlush** setup, NOT a manual toilet. Water-pressure switch: lights dim (pump motor starts),
