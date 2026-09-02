@@ -220,7 +220,13 @@ pedal to floor 3 s to flush (pop is normal). No water to the bowl even on docksi
 valve on the toilet supply line (under/behind toilet) or the pedal-operated water valve stuck
 after 2 yr dry (work the pedal, else replace). MACERATOR = overboard discharge pump via its
 own seacock, hold-to-run, seacock stays LOCKED CLOSED — pump-out station only on Ouachita.
-Pump location unknown (no 2760 drawing on file) — try under the companionway step, near tank.
+**Fresh water pump FOUND under the companionway stairs: Shurflo 2088-423-244** (2.8 gpm,
+45 psi, 7.5 A, 10 A fuse), clear inlet strainer on the tank suction (braided hose), blue tubing
+on the pressure side, pressure switch under the pump. Drop-in modern replacement: Shurflo 4008
+(~$80, same fittings). If it runs but won't deliver: strainer bowl/O-ring suction leak first,
+then stuck check valves in the head (4 screws). Same compartment: green-corroded bronze
+fitting low on the port side — if it is a seacock/through-hull, work it and confirm it seals
+BEFORE LAUNCH; cream plastic unit with tan sanitation hose = likely the VacuFlush vacuum pump.
 TO-DO: photo the pump, the toilet base/pedal, and the vacuum generator tank → confirm models.
 
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
