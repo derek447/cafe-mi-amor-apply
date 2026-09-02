@@ -110,6 +110,18 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
 - **Starboard water leak on top of engine** (thermostat housing / manifold water inlet /
   riser joint — exact spot TBD): snug clamps or re-torque cold, new gasket if it still weeps.
   Fix-before-lake item.
+- **Port water at prop hub not yet seen** (2026-09-01). Expect water at hub / relief slots
+  within 15–30 s of start on muffs; nothing by 60 s = key off (impeller dies dry). Order:
+  muff seal on port gills + hose wide open → pull impeller cover (vanes trailing, lubed,
+  gasket sealing) → pump-outlet hose pulled at the thermostat housing, 5-second run.
+  Port ran a while at 2500 with water unconfirmed — riser hand test is now mandatory.
+- **Kohler 5E genset fires on starter fluid** (2026-09-01) → spark/compression/controller OK,
+  problem is fuel (same tank, same water). Check: electric fuel pump runs during crank; drain
+  the carb bowl; carb fuel-shutoff solenoid pulls in at 12 V; inline filter; anti-siphon valve
+  at the tank fitting for the genset pickup. **RULE: genset has its own raw-water intake — muffs
+  do not feed it. No run beyond a few seconds without a hose on its intake** (impeller + rubber
+  exhaust mixer cook dry). Power test when it runs: ~120 V at its breaker, then hold under a
+  real load (heat gun / shop vac).
 - Still to do before port runs on its own: new separator (Quicksilver 8M0154772) on arrival,
   fill it with clean gas, several key-on prime cycles, flame arrestor ON before running,
   lever at idle (neutral throttle release = round button at the lever pivot hub).
