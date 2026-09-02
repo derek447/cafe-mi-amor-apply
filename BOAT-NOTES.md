@@ -94,8 +94,16 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   relearn (batteries were off), clean IAC + throttle bores, vacuum leak, TPS ~0.5 V at idle.
   Normal warm: 600–700 rpm, temp 160–180°F (160°F thermostat), riser elbows hand-holdable.
   **Held 2500 rpm smooth on muffs. ROOT CAUSE FOUND 2026-09-01: port IAC valve stuck open.**
-  Diagnosis path: arrestor + PCV hoses back on → no change. Lever confirmed resting on the
-  stop screw (stop screw NOT touched — it is the GM minimum-air setting, not an idle adjuster).
+  Diagnosis path: arrestor + PCV hoses back on → no change. Lever confirmed on its stop.
+  **Throttle-body screws (deep dive 2026-09-02, GM Marine MEFI-3 manual L510004 + Merc parts):**
+  the spring-loaded screw under the throttle lever is the throttle-shaft end nut with the return
+  spring — NOT an adjuster. The real minimum-air stop screw is a Torx recessed inside the cast
+  boss by the "TBI" letters, factory-sealed under a pressed steel cup plug (Merc "PLUG 806899") —
+  the "little metal cover". GM: minimum air is factory-set and "should not be altered by turning
+  the stop screw or bending the linkage." Idle spec: 600 rpm (Volvo book: in gear; Merc: neutral,
+  "not adjustable"). TPS closed-throttle 0.3–0.9 V, typical 0.70–0.80 V on MEFI (not 0.5 V).
+  Base timing 8° BTDC, ECM-controlled (needs base-timing mode to check). Nothing on the throttle
+  body is an owner idle adjustment; idle problems are air-path problems.
   Unplugging the IAC changed nothing — CORRECT, a GM IAC is a stepper with no spring; unplugged
   it freezes in place (that test proves nothing). Thumb-over-the-IAC-hole also proves nothing
   on a TBI 220 (cavity is fed from above the plates; GM plugs the orifice with tool J-33047).
@@ -104,11 +112,33 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   Lesson: the IAC bypass CAN hold a warm 4.3 at ~2500 when fully open (earlier 1200–1500 claim
   was wrong). Port's valve: no part number left (etched number gone); connector cap molded
   "90384 / C3059 / H" = mold + date codes, C3059 ≈ day 305 of 1999 (inferred) → original valve.
-  **BUY: Sierra 18-7632-1** (= Volvo 3855194, supersedes 3855185; = Mercruiser 805224A1), listed
-  against 4.3GiPEFS — retail cross-listing, so physically match flange spacing / pintle / 4-pin
-  plug against starboard's valve before install. Auto-store INFERRED equivalent: ACDelco 217-437
-  (GM 25527077, 1987–95 GM TBI trucks) — physical match at the counter only, phone stock first.
-  Soak port's pintle/seat in throttle-body cleaner, test on starboard = possible spare.
+  **IAC PART — deep dive 2026-09-02 (research complete; adversarial-verify pass did not run):**
+  - Cap number "90384" = trailing digits of **GM 17090384** (GM molds the last 5 of the 8-digit
+    number on the cap — verified on a GM 25527077 photo whose cap reads "77905"). 17090384 is in
+    Delphi CV10027's OE list → flange family 17090384/17076228 → 17111788 → 17113099 → **GM 19333272
+    (current)**. INFERRED-strong (two independent facts agree).
+  - **The auto-store "4.3 TBI" valve is WRONG for this boat.** ACDelco 217-437 / GM 25527077 /
+    SMP AC1 / Duralast AC102 is THREAD-IN (32 mm hex, square plug, 72 mm). Ours is a 2-screw
+    FLANGE with O-ring (GM Marine MEFI manual fig 2-23; part in hand). VERIFIED. Earlier note
+    suggesting 217-437 is retracted.
+  - Auto-store FLANGE family that matches (INFERRED, three sources agree: cap number, SMP AC6 OE
+    list naming Volvo 3855194, Delcoribo cross): **lookup = 1990–95 Chevy/GMC C2500/C3500 7.4L
+    (454) TBI idle air control valve.** Numbers: Standard AC6 · Delphi CV10027 · ACDelco 217-408 ·
+    Walker 215-1009 · Wells 2H1045 · Duralast AC105 · BWD 21758 · NAPA Echlin 2-1758. ~$25–45.
+    Spec: oblong 4-pin plug, 2 holes 5.0 mm, 64.5 mm long, 22 mm port, **10 mm pintle**.
+    TRAP: the same trucks also list a 12 mm-pintle flange valve (SMP AC27 / ACDelco 217-429 /
+    Wells 2H1043 / Duralast AC116) — CALIPER THE PINTLE on our valve before buying. A competing
+    catalog cross (SMP AC5 / 217-419 / Duralast AC107 / BWD 21755) also claims the Mercruiser
+    number; cap number says AC6 family. GM says pintle shape/diameter is application-specific,
+    so physical match at the counter with the dead valve in hand is mandatory. Phone stock first.
+  - Marine numbers VERIFIED from Volvo EPC (marinepartseurope, catalog 7797477, "Throttle Body
+    Repair Kits" for 4.3GiPEFS): **Volvo 3855194** ("Sensor", supersedes 3855185; ~$290 dealer).
+    Aftermarket marine: Recmar REC3855194 $99.60 (Marine Parts Express), Sierra 18-7704 (Volvo
+    cross, $190–250), Sierra 18-7632-1 (Mercruiser 805224A1 cross, ~$120 — same-looking valve,
+    Sierra keeps the numbers separate). Mercruiser kit = valve + screw 805400 + O-ring 808547.
+  - First-hand reports: marine techs on iboats buy the GM/Delphi valve after reading the number
+    off the old part; cheap Chinese valves came with wrong-shape pintles (two reports) — avoid.
+  - DO NOT soak a used IAC (GM manual). Wipe pintle/seat with carb cleaner only.
   Starboard currently has NO IAC installed — do not run it until one is back in. Idle-valve pintle max ~1.1" (28 mm) from
   flange before install. Battery switch OFF = full ECM reset (ECM feed is downstream of the
   switch). Starboard cold idle on muffs: ~900 rpm.
