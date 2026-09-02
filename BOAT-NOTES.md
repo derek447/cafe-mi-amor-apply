@@ -44,6 +44,9 @@ SX drives, serpentine belts.
 **Hour meter (tach LCD), read 2026-08-31: 349.7 hrs** — ~14 hrs/yr over 24 seasons: a low-use,
 well-kept boat. Baseline for all hours-based maintenance going forward. (Cross-check the second
 tach's meter when convenient; matching totals = trustworthy.)
+**STARBOARD tach came alive 2026-09-01 — hour meter 360.0 hrs.** Ten hours off port's 349.7:
+both engines have lived the same life on this boat (does not settle the repower question on
+its own, but it is what an original pair looks like).
 **Kohler 5E genset hour meter: 92.0 hrs** (read 2026-08-31) — corroborates the ~14 hr/yr
 low-use story from an independent meter; genset baseline for service intervals.
 Dash note: both Faria TRIM gauges peg "UP" regardless of actual drive position → open sender
@@ -90,6 +93,10 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   idle screw on MEFI; do NOT touch the throttle stop. Order: warm up, lever on its stop, IAC
   relearn (batteries were off), clean IAC + throttle bores, vacuum leak, TPS ~0.5 V at idle.
   Normal warm: 600–700 rpm, temp 160–180°F (160°F thermostat), riser elbows hand-holdable.
+  **Held 2500 rpm smooth on muffs** — that is NOT an IAC/relearn problem (IAC bypass tops out
+  ~1200–1500): throttle plates are open (cable holding lever off the stop, binnacle in
+  throttle-only mode) or a big intake air leak. Battery switch OFF = full ECM reset (ECM feed
+  is downstream of the switch); no cable pull needed. Too fast for muffs — key off and find it.
 - **Starboard water leak on top of engine** (thermostat housing / manifold water inlet /
   riser joint — exact spot TBD): snug clamps or re-torque cold, new gasket if it still weeps.
   Fix-before-lake item.
