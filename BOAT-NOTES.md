@@ -93,10 +93,20 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   idle screw on MEFI; do NOT touch the throttle stop. Order: warm up, lever on its stop, IAC
   relearn (batteries were off), clean IAC + throttle bores, vacuum leak, TPS ~0.5 V at idle.
   Normal warm: 600–700 rpm, temp 160–180°F (160°F thermostat), riser elbows hand-holdable.
-  **Held 2500 rpm smooth on muffs** — that is NOT an IAC/relearn problem (IAC bypass tops out
-  ~1200–1500): throttle plates are open (cable holding lever off the stop, binnacle in
-  throttle-only mode) or a big intake air leak. Battery switch OFF = full ECM reset (ECM feed
-  is downstream of the switch); no cable pull needed. Too fast for muffs — key off and find it.
+  **Held 2500 rpm smooth on muffs. ROOT CAUSE FOUND 2026-09-01: port IAC valve stuck open.**
+  Diagnosis path: arrestor + PCV hoses back on → no change. Lever confirmed resting on the
+  stop screw (stop screw NOT touched — it is the GM minimum-air setting, not an idle adjuster).
+  Unplugging the IAC changed nothing — CORRECT, a GM IAC is a stepper with no spring; unplugged
+  it freezes in place (that test proves nothing). Thumb-over-the-IAC-hole also proves nothing
+  on a TBI 220 (cavity is fed from above the plates; GM plugs the orifice with tool J-33047).
+  Definitive test: pulled both IACs — port pintle retracted (open) vs starboard extended
+  (closed) after the same key-off park; **swapped starboard's IAC onto port → idle normal.**
+  Lesson: the IAC bypass CAN hold a warm 4.3 at ~2500 when fully open (earlier 1200–1500 claim
+  was wrong). TO-DO: read the part number off port's valve → buy a replacement (or clean the
+  pintle/seat with throttle-body cleaner and re-test on starboard); starboard currently has NO
+  IAC installed — do not run it until one is back in. Idle-valve pintle max ~1.1" (28 mm) from
+  flange before install. Battery switch OFF = full ECM reset (ECM feed is downstream of the
+  switch). Starboard cold idle on muffs: ~900 rpm.
 - **Starboard water leak on top of engine** (thermostat housing / manifold water inlet /
   riser joint — exact spot TBD): snug clamps or re-torque cold, new gasket if it still weeps.
   Fix-before-lake item.
