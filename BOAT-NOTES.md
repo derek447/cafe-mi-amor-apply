@@ -86,6 +86,13 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   by tracing each hose: tank supply IN + return TO tank (both head toward the tank), pressure
   feed TO throttle body + regulator return FROM throttle body (both head to the engine top).
   Fuel cooler water hoses (black) are separate if present.
+- **PORT RUNNING 2026-09-01** after siphoning water/stale fuel from the tank. Idle high — no
+  idle screw on MEFI; do NOT touch the throttle stop. Order: warm up, lever on its stop, IAC
+  relearn (batteries were off), clean IAC + throttle bores, vacuum leak, TPS ~0.5 V at idle.
+  Normal warm: 600–700 rpm, temp 160–180°F (160°F thermostat), riser elbows hand-holdable.
+- **Starboard water leak on top of engine** (thermostat housing / manifold water inlet /
+  riser joint — exact spot TBD): snug clamps or re-torque cold, new gasket if it still weeps.
+  Fix-before-lake item.
 - Still to do before port runs on its own: new separator (Quicksilver 8M0154772) on arrival,
   fill it with clean gas, several key-on prime cycles, flame arrestor ON before running,
   lever at idle (neutral throttle release = round button at the lever pivot hub).
