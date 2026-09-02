@@ -190,9 +190,8 @@ enters through the hull/deck vent shrouds; **a powered blower attached to duct w
 intake sits in the lower one-third of the bilge evacuates air to the atmosphere**; "check the
 ventilation ducts and black bilge hose"; blower switch at the helm, fuse marked Blower on the
 DC panel; ABYC/Regal blower wire = **yellow 12 AWG** (yellow/black is stereo memory).
-FIND IT: run the switch and follow the sound, or follow the flex duct from the hull-side/
-transom cowl vents inboard — the motor sits at the vent end, high on the compartment side.
-Twin-engine 2760 likely has two. When replacing: measure the duct ID first (3" vs 4"), buy
+**LOCATION (factory drawing 4-13, verified): BLOWER at the starboard aft corner of the engine
+compartment, next to the waste pump-out fitting.** One blower shown. When replacing: measure the duct ID first (3" vs 4"), buy
 ignition-protected (USCG/SAE J1171 on the label) inline blower, replace the duct if crushed/
 cracked, intake end must sit low in the bilge but above bilge water; check the yellow feed
 and ground for heat damage at the motor end; verify the helm fuse value matches the new motor.
@@ -257,6 +256,23 @@ then stuck check valves in the head (4 screws). Same compartment: green-corroded
 fitting low on the port side — if it is a seacock/through-hull, work it and confirm it seals
 BEFORE LAUNCH; cream plastic unit with tan sanitation hose = likely the VacuFlush vacuum pump.
 TO-DO: photo the pump, the toilet base/pedal, and the vacuum generator tank → confirm models.
+
+## 2760 FACTORY DRAWINGS — machinery, seacocks, fuel (manual 4-13 / 5-4, verified)
+
+**Under the companionway stairs (cluster on 4-13):** A/C WATER INTAKE seacock (= the green
+corroded bronze fitting next to the Shurflo — work it, confirm it seals, or it is a sinking
+risk), MID BILGE PUMP, WATER PUMP, SHOWER SUMP PUMP, SHOWER SUMP DISCHARGE thru-hull.
+**Engine area:** A/C UNIT (port), BATTERY CHARGER (port), WATER HEATER (port aft), TRIM TAB
+PUMP (center aft), BILGE PUMP (aft), **TOILET RAW WATER SEACOCK (stbd aft)** — a second
+seacock to find and exercise; with the VacuFlush option it may be capped/unused but it is
+still a hole in the hull. WASTE TANK + MACERATOR (stbd aft), **BLOWER = starboard aft corner
+of the engine compartment** next to the waste pump-out fitting (answers the blower-location
+question). FIRE EXTINGUISHER (Sea-Fire) on the engine-compartment forward bulkhead.
+**Fuel (5-4):** 110-gal tank is **under the aft cabin berth** (not under the cockpit sole),
+anti-siphon valve on the tank top, fuel tank vent, FUEL FILL/VENT COMBO at the starboard aft
+deck, fuel sending unit on the tank, single "fuel to engine" line from the tank.
+Seacock inventory before launch: A/C intake, toilet raw water, macerator discharge, plus the
+engine intakes (through the drives) and the genset intake. Every one gets worked and checked.
 
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
 
