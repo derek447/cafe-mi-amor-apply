@@ -102,9 +102,14 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   Definitive test: pulled both IACs — port pintle retracted (open) vs starboard extended
   (closed) after the same key-off park; **swapped starboard's IAC onto port → idle normal.**
   Lesson: the IAC bypass CAN hold a warm 4.3 at ~2500 when fully open (earlier 1200–1500 claim
-  was wrong). TO-DO: read the part number off port's valve → buy a replacement (or clean the
-  pintle/seat with throttle-body cleaner and re-test on starboard); starboard currently has NO
-  IAC installed — do not run it until one is back in. Idle-valve pintle max ~1.1" (28 mm) from
+  was wrong). Port's valve: no part number left (etched number gone); connector cap molded
+  "90384 / C3059 / H" = mold + date codes, C3059 ≈ day 305 of 1999 (inferred) → original valve.
+  **BUY: Sierra 18-7632-1** (= Volvo 3855194, supersedes 3855185; = Mercruiser 805224A1), listed
+  against 4.3GiPEFS — retail cross-listing, so physically match flange spacing / pintle / 4-pin
+  plug against starboard's valve before install. Auto-store INFERRED equivalent: ACDelco 217-437
+  (GM 25527077, 1987–95 GM TBI trucks) — physical match at the counter only, phone stock first.
+  Soak port's pintle/seat in throttle-body cleaner, test on starboard = possible spare.
+  Starboard currently has NO IAC installed — do not run it until one is back in. Idle-valve pintle max ~1.1" (28 mm) from
   flange before install. Battery switch OFF = full ECM reset (ECM feed is downstream of the
   switch). Starboard cold idle on muffs: ~900 rpm.
 - **Starboard water leak on top of engine** (thermostat housing / manifold water inlet /
