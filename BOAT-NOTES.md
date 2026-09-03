@@ -252,7 +252,10 @@ strainer bowl is DRY — gauge (float/reed) not trusted; extractor test on the t
 strainer decides it (water = tank has water; air = gauge lying or pickup blocked). **Pump does
 not move** when switched on (lights dip = inrush, no rotation) → meter 12 V at the red pair,
 jumper the motor past the pressure switch; assume seized after 2 yr wet → replace with
-Shurflo 4008/4028 (same footprint, 1/2" fittings). Future tank filling: with the city hose on,
+Shurflo 4008/4028 (same footprint, 1/2" fittings). **2026-09-03 extractor test: PULLED WATER
+from the suction hose at the pump** → tank has water (gauge honest), pickup + line clear;
+fault is the pump or its power. NOTE: the "pump won't move" test happened during the 9–10 V
+battery crisis — RETEST at full voltage (prime the strainer bowl first) before buying. Future tank filling: with the city hose on,
 watch the gauge/vent — if the level climbs, the inlet is teed to the tank side; if not, add a
 deck fill. **BILGE: mid pump had water in it today and ran ONLY on the switch — float did not
 fire.** Cockpit switches are 2-position rockers (manual only). Before launch: every float gets
