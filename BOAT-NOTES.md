@@ -53,6 +53,13 @@ unit.** Pi 5/CM4 on real Linux: HA kiosk = monitoring panel, Music Assistant/Mop
 → amps (amp-first per the study), camera recording + Tailscale on the same box, ESP32 feeds it.
 Spend the money on a high-brightness/marine 10" touchscreen (sunlight). Android head units =
 lockable junk; Victron Cerbo GX noted as the off-the-shelf Linux monitoring alternative.
+**TWO-PANEL PLAN (2026-09-03): cabin station = hub/server** at the old TV/stereo spot where ALL
+speaker harnesses + the stereo circuit terminate — Pi server + amp stack live there; screen =
+any TV/monitor (indoor, doubles as TV via Starlink). **Cockpit station = thin client**: small
+Pi/tablet + the high-brightness touchscreen, HA dashboard + music control over Wi-Fi (no long
+HDMI). Zones: cockpit and cabin speakers on separate amp channels → per-zone volume in Music
+Assistant. While the TV station is open: confirm amp-stack space/airflow + drop a pull string
+to the cockpit for future power + sub feed runs.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
