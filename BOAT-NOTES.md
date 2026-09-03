@@ -43,6 +43,11 @@ feel the breakers — warm at 15 A = aging, replace with the trim breaker order.
 until both banks are back in the 12s (it dug this hole). Rest-test verdicts tomorrow.
 **Breakers reset → CHARGING CONFIRMED (same day).** Watch for re-trips during bulk; output %
 should fall as banks fill.
+**Head unit (Kenwood) CONFIRMED DEAD 2026-09-03** — power verified at fuse/harness (yellow +
+red hot, ground good), no life. Swamp casualty. Boat-side stereo wiring proven good = the
+interface for the A/V build. Options: go straight to the amp-first build (per AV-BUILD-STUDY),
+or ~$25 interim Bluetooth receiver/amp board on the existing speakers + STEREO circuit.
+Salvage the Kenwood harness pigtail before tossing the unit.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
