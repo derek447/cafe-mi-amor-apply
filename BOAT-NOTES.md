@@ -219,6 +219,20 @@ Head: manual hand-pump marine head, intake seacock under/behind it (closed on tr
 holding tank; trailer test = pitcher of water in bowl, pump to tank, pump dry. Expect a rebuild
 kit (joker valve) after 2 years dry. Check holding-tank vent (dirt daubers) + pump-out deck
 fitting; any overboard Y-valve stays locked — Lake Ouachita is no-discharge.
+**FIELD FINDINGS 2026-09-02 (verified on the boat):** the only water fitting on deck is a
+square chrome **CITY WATER INLET** (label on the ring) with a white cap + screen, starboard aft
+next to GAS and WASTE key caps. NO fresh-water deck fill exists — boat was re-plumbed in PEX
+at some point and the factory port-aft deck fill is gone. Tank monitor reads 3/4 but the pump
+strainer bowl is DRY — gauge (float/reed) not trusted; extractor test on the tank line at the
+strainer decides it (water = tank has water; air = gauge lying or pickup blocked). **Pump does
+not move** when switched on (lights dip = inrush, no rotation) → meter 12 V at the red pair,
+jumper the motor past the pressure switch; assume seized after 2 yr wet → replace with
+Shurflo 4008/4028 (same footprint, 1/2" fittings). Future tank filling: with the city hose on,
+watch the gauge/vent — if the level climbs, the inlet is teed to the tank side; if not, add a
+deck fill. **BILGE: mid pump had water in it today and ran ONLY on the switch — float did not
+fire.** Cockpit switches are 2-position rockers (manual only). Before launch: every float gets
+its own fused feed direct from the battery post (or new Rule-A-Matic floats). This is very
+likely how she sank.
 **FROM THE 2760 FACTORY MANUAL (ch. 6, verified, pdf pp.101–106):** system = fresh water tank,
 deck fill + vent, monitor, pressure pump (35 psi), filter, **dockside water pressure regulator**,
 water heater. "The dockside water inlet allows an outside water supply to be connected to the
