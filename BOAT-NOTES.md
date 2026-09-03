@@ -233,6 +233,15 @@ deck fill. **BILGE: mid pump had water in it today and ran ONLY on the switch �
 fire.** Cockpit switches are 2-position rockers (manual only). Before launch: every float gets
 its own fused feed direct from the battery post (or new Rule-A-Matic floats). This is very
 likely how she sank.
+**2760 AC/DC PANEL (manual 4-22, verified):** DC rockers ARE the breakers — MAIN 50 A, INST
+PANEL 50, FWD CABIN LTS 15, MID CABIN LTS 10, STEREO 7.5, TV 10, REFRIG 15, **WATER PRESSURE
+15**, MACERATOR 25, HEAD 25; three round panel fuses: SHOWER PUMP, CO DETECTOR, TANK MONITOR.
+AC side: SHORE 30 A main + GENERATOR 40 A main, WATER HEATER 15, CONVERTER (charger) 10,
+STOVE 20, OUTLETS 15, MICROWAVE 15, AIR CONDITIONER 10; polarity indicator on the panel.
+Genset control on the panel: OFF/ON, START, STOP, BLOWER. No separate fuse for the water
+pump at the panel (Shurflo asks for a 10 A inline — check the red wire near the pump). Lights
+dipping when the switch is flipped = circuit complete, motor drawing inrush → the fuse is not
+the problem, the motor is.
 **FROM THE 2760 FACTORY MANUAL (ch. 6, verified, pdf pp.101–106):** system = fresh water tank,
 deck fill + vent, monitor, pressure pump (35 psi), filter, **dockside water pressure regulator**,
 water heater. "The dockside water inlet allows an outside water supply to be connected to the
