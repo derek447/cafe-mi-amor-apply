@@ -320,6 +320,23 @@ deck, fuel sending unit on the tank, single "fuel to engine" line from the tank.
 Seacock inventory before launch: A/C intake, toilet raw water, macerator discharge, plus the
 engine intakes (through the drives) and the genset intake. Every one gets worked and checked.
 
+## PROJECT: intelligent monitoring / security (Crystal Springs, spotty cell)
+
+Uplink: **Starlink Mini** ($599, 12 V, 25–40 W, Roam plan from $50/mo, inland lakes covered,
+works in motion <10 mph; big Flat HP dish + maritime plans are for offshore — not needed).
+Marina Wi-Fi as free primary if the slip has it. Cellular boat monitors (Siren, Garmin OnDeck,
+Boat Command) are out — no cell coverage. Controller: ESP32/ESPHome or a Pi (<1 W, 24/7),
+Home Assistant on the dev box over Tailscale; controller owns a relay on the Starlink feed.
+Sensors: high-water float above the bilge floats, current sense on each bilge pump (run
+counts/duration), voltage on both banks, shore-power-present (AC relay coil), door + engine
+hatch reeds, GPS geofence, engine-bay temp, cabin smoke/CO. Cameras: 1–2 PoE cams recording
+locally, motion clips only. Alert rules: pump >N runs/hr, high-water, V <12.2, shore power
+lost, hatch opened, boat moved >50 m. POWER BUDGET IS THE DESIGN: Starlink always-on ≈ 700
+Wh/day vs ~400 Wh/day from 100 W solar → shore power at the slip = always-on mode (requires
+the ground-fault fix + galvanic isolator FIRST); shore power lost → alert + duty-cycle mode
+(dish on 10 min every 2 h + instantly on alarm; Mini boots ~2 min). Mechanical safety layer
+(new floats, fused feeds, high-water alarm) comes first and does not depend on any of this.
+
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
 
 **Derek feels AC "juice" on the outdrive when the boat is on shore power (on the trailer).**
