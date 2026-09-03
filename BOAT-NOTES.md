@@ -48,6 +48,11 @@ red hot, ground good), no life. Swamp casualty. Boat-side stereo wiring proven g
 interface for the A/V build. Options: go straight to the amp-first build (per AV-BUILD-STUDY),
 or ~$25 interim Bluetooth receiver/amp board on the existing speakers + STEREO circuit.
 Salvage the Kenwood harness pigtail before tossing the unit.
+**Direction chosen: no replacement head unit — the aft-bulkhead touchscreen becomes the head
+unit.** Pi 5/CM4 on real Linux: HA kiosk = monitoring panel, Music Assistant/Mopidy + USB DAC
+→ amps (amp-first per the study), camera recording + Tailscale on the same box, ESP32 feeds it.
+Spend the money on a high-brightness/marine 10" touchscreen (sunlight). Android head units =
+lockable junk; Victron Cerbo GX noted as the off-the-shelf Linux monitoring alternative.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
