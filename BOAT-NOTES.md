@@ -256,6 +256,12 @@ a float that does not fire = no drain → battery exhaustion → settled. Mid fl
 today with water in the bilge. PLAN (<$150): replace BOTH floats (Rule-A-Matic Plus / Johnson
 Ultima), each on its own fused feed direct from the battery post, plus a high-water alarm
 float + buzzer above them. Do not "clean" 25-year-old floats.
+**RAIN PATH FOUND 2026-09-02: a factory drain port + tube runs from the companionway top
+step / cockpit down into the mid bilge** — by design; the bilge pump is the drain. Before
+plugging it: bucket test the cockpit. If the cockpit has its own transom scuppers, a plug in
+the step drain is OK on the trailer only (pull it for use; standing water rots the sill). If
+the cockpit drains ONLY through that port, never plug it (cockpit becomes a bathtub and
+overflows into the cabin). Real fix = the float/alarm plan above + a cover when stored.
 **FROM THE 2760 FACTORY MANUAL (ch. 6, verified, pdf pp.101–106):** system = fresh water tank,
 deck fill + vent, monitor, pressure pump (35 psi), filter, **dockside water pressure regulator**,
 water heater. "The dockside water inlet allows an outside water supply to be connected to the
