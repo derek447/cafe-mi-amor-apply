@@ -336,6 +336,16 @@ Wh/day vs ~400 Wh/day from 100 W solar → shore power at the slip = always-on m
 the ground-fault fix + galvanic isolator FIRST); shore power lost → alert + duty-cycle mode
 (dish on 10 min every 2 h + instantly on alarm; Mini boots ~2 min). Mechanical safety layer
 (new floats, fused feeds, high-water alarm) comes first and does not depend on any of this.
+**RESERVE BANK (decided direction 2026-09-02):** dedicated 12 V LiFePO4 in the mid-cabin
+(30 Ah ≈ 380 Wh = ~10 h Starlink Mini continuous; 50–100 Ah if it also carries the bilge
+pumps — 1,100 gph pump ≈ 3 A, a 100 Ah reserve runs it ~a day). Isolated from the house bank
+by a one-way DC-DC charger (Victron Orion-Tr 12/12 class: charges only when house >~13 V,
+boat loads can never drain it) + its own 100 W panel/MPPT. Controller lives on the reserve;
+on house <12 V / shore lost / high-water: relay boots Starlink from the reserve, sends alert
+(voltage, bilge state, GPS), waits for ack, shuts down, repeats on a phone-settable schedule.
+Bilge floats moved to the reserve = pumps outlive the batteries the fridge/stereo eat.
+Layering: house runs the boat; reserve runs pumps + brain + radio; solar keeps the reserve;
+shore keeps everything when plugged in and healthy.
 
 ## ⚠ SHORE POWER FAULT — HARD GATE (found 2026-09-01)
 
