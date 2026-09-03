@@ -60,6 +60,17 @@ Pi/tablet + the high-brightness touchscreen, HA dashboard + music control over W
 HDMI). Zones: cockpit and cabin speakers on separate amp channels → per-zone volume in Music
 Assistant. While the TV station is open: confirm amp-stack space/airflow + drop a pull string
 to the cockpit for future power + sub feed runs.
+**Hardware pricing verified 2026-09-03:** Pi 5 8GB now $175 board-only (2026 memory crunch —
+Raspberry Pi announced memory-driven price rises) → server pick changed to **N100 mini PC
+16GB/500GB (Beelink S12 Pro/EQ13, $129 used–$190 new, 12 V barrel input — feed via regulated
+12-12 buck)**; HAOS native on x86, Frigate runs better. Cabin wall screen: batteryless only
+(mounted tablets cook their lithium at 100% in cabin heat — the $387 MESWAO 16" was declined).
+**Cockpit screen tiers (prices read off pages 2026-09-03):** Xenarc marine IP67 1200-nit
+10.1" — 1022TSH $659 / 1029CNH $819 / 1029GNH $899, 9–36 V DC, USB touch, VESA (the proper
+one); rugged Android tablet on RAM mount — Ulefone Armor Pad 3 Pro/4 Ultra ~$250–350, IP68
+but ~500–600 nit (shade-readable, removable = theft/heat/roaming controller solved);
+VSDISPLAY 10.1" 1000-nit ~<$200 (bright but only splash-resistant — protected cutout only).
+DECISION LEAN: rugged tablet first season, Xenarc as the upgrade path.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
