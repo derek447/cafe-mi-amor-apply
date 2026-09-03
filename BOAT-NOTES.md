@@ -16,7 +16,11 @@ To-do: **test float switches with BOTH helm switches AND the battery switch OFF*
 hand; must run → auto circuit is independent, fused direct to the battery; if not, find the
 inline fuse / rewire — manual says only "Aft Bilge 7 A / Fwd Bilge 7 A operates pump", nothing
 about the float circuit; two pumps: mid bilge under the stairs, aft in the engine area); load-test both batteries (assume
-sulfated); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
+sulfated) — **2026-09-03 field data: switch on "1" all day → lights went dim; flipping to BOTH
+brightened them.** Confirms banks are separate, switch works, battery 2 currently healthier.
+Battery 1 (house — carries the bilge pumps) sagged after one light day: full overnight charge,
+rest 1 h disconnected, then meter — ≥12.6 V healthy, low-12s after a real charge = replace.
+Do NOT park on BOTH (a low bank drags the good one down; BOTH is for running/emergencies); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
 pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
