@@ -242,6 +242,20 @@ Genset control on the panel: OFF/ON, START, STOP, BLOWER. No separate fuse for t
 pump at the panel (Shurflo asks for a 10 A inline — check the red wire near the pump). Lights
 dipping when the switch is flipped = circuit complete, motor drawing inrush → the fuse is not
 the problem, the motor is.
+**HEAD CORRECTION 2026-09-02 (verified on the boat): the toilet is the MANUAL head** — wet/dry
+bowl selector lever + hand pump, no vacuum generator anywhere. VacuFlush theory retracted.
+Flush water comes from the TOILET RAW WATER SEACOCK (drawing 4-13, stbd aft engine area) —
+no water on the trailer is normal. Trailer test: pitcher of water in bowl, lever wet, pump →
+must go down to the holding tank; lever dry, pump bowl empty; stiff or creeping back = rebuild
+kit (joker valve). Find + exercise that seacock before launch. Panel HEAD breaker (25 A) is
+the electric-head option circuit — likely feeds nothing on this boat.
+**BILGE = THE LOSS MECHANISM.** Mid bilge under the stairs fills with rain (path unknown — hose
+test windshield frame, foredeck hatch, cabin door, cockpit sole one at a time with a watcher).
+Regal cruisers of this era drain cockpit rain to the bilge; the bilge pumps ARE the drain, so
+a float that does not fire = no drain → battery exhaustion → settled. Mid float did NOT fire
+today with water in the bilge. PLAN (<$150): replace BOTH floats (Rule-A-Matic Plus / Johnson
+Ultima), each on its own fused feed direct from the battery post, plus a high-water alarm
+float + buzzer above them. Do not "clean" 25-year-old floats.
 **FROM THE 2760 FACTORY MANUAL (ch. 6, verified, pdf pp.101–106):** system = fresh water tank,
 deck fill + vent, monitor, pressure pump (35 psi), filter, **dockside water pressure regulator**,
 water heater. "The dockside water inlet allows an outside water supply to be connected to the
