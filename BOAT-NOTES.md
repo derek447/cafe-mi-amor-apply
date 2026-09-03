@@ -41,6 +41,8 @@ pull max bulk current → breaker pops. Recovery: reset, verify 13+ V at battery
 re-trips while banks are <12 V (lift the low bank with the garage charger/truck jumpers first),
 feel the breakers — warm at 15 A = aging, replace with the trim breaker order. Fridge OFF
 until both banks are back in the 12s (it dug this hole). Rest-test verdicts tomorrow.
+**Breakers reset → CHARGING CONFIRMED (same day).** Watch for re-trips during bulk; output %
+should fall as banks fill.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
