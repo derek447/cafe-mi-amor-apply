@@ -33,6 +33,14 @@ them); (3) test dried Xantrex in isolation, leads off: 13–14.4 V at studs = li
 → ProMariner ProSport 20 / new Truecharge ($150–300); (4) battery verdicts by 1-h rest test
 after a REAL charge: ≥12.6 = load test, low-12s = replace (the 9 V one is on death row).
 NO CRANKING either engine until real voltage is back (low-V cranking cooks starters + MEFI).
+**ROOT CAUSE FOUND 2026-09-03: 15 A push-button breakers at the battery switch (Xantrex
+output circuits) were TRIPPED.** Charger charged into an open all night (<5% = no load; "6 V"
+= floating disconnected output); fridge ran the banks down to 9/10.3 V. Rinse theory retracted;
+charger likely fine. Note the design flaw: 20 A charger behind 15 A breakers → dead-flat banks
+pull max bulk current → breaker pops. Recovery: reset, verify 13+ V at battery posts, expect
+re-trips while banks are <12 V (lift the low bank with the garage charger/truck jumpers first),
+feel the breakers — warm at 15 A = aging, replace with the trim breaker order. Fridge OFF
+until both banks are back in the 12s (it dug this hole). Rest-test verdicts tomorrow.
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
