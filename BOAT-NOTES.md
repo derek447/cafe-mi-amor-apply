@@ -22,6 +22,17 @@ Battery 1 (house — carries the bilge pumps) sagged after one light day: full o
 rest 1 h disconnected, then meter — ≥12.6 V healthy, low-12s after a real charge = replace.
 Do NOT park on BOTH (a low bank drags the good one down; BOTH is for running/emergencies); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
 pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
+**CHARGING CRISIS 2026-09-03:** batteries read 9.0 V and 10.3 V after a night "on charge";
+Xantrex Truecharge2 20A shows Charging + <5% output, no Fault, but its own output lead meters
+**6 V** — charger not delivering. Timeline: worked yesterday → bilge rinsed with soapy water
+today → 6 V now. Prime suspect: water in the charger/connections (it lives low, also went
+under in the sinking). RECOVERY: (1) shore power UNPLUGGED, charger drying 1–2 days —
+**RULE: never wash the bilge with shore power connected, especially with the ground fault
+open**; (2) garage charger on each battery individually overnight (9 V is actively killing
+them); (3) test dried Xantrex in isolation, leads off: 13–14.4 V at studs = lives, 6 V = dead
+→ ProMariner ProSport 20 / new Truecharge ($150–300); (4) battery verdicts by 1-h rest test
+after a REAL charge: ≥12.6 = load test, low-12s = replace (the 9 V one is on death row).
+NO CRANKING either engine until real voltage is back (low-V cranking cooks starters + MEFI).
 **Power — ENGINES ARE NOT TWINS (discovered 2026-09-01):**
 - **PORT: original Volvo Penta 4.3Gi**, Gen-I 262 V6, 349.7 hrs (its tach works). Compression
   tested 2026-08-30: 135-152 PASS.
