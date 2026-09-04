@@ -272,6 +272,13 @@ open tap / suction air leak; won't run = fuse, switch, stuck pressure switch (ta
 **Water heater: do NOT power the 120 V element until it is full AND the shore-ground test has
 passed** (it sat swamped; it is a shore-fault suspect). Sanitize before drinking: ~1/2 cup
 bleach in the full 27 gal, run every tap, sit 4 h, drain, refill, flush twice.
+**Found behind the toilet 2026-09-04: a fused 12 V power drop (corroded inline fuse barrel,
+connected to nothing)** — almost certainly the electric-head feed for the panel's HEAD 25 A
+breaker. Neighboring hose is Shields Series 148 vacuum-rated sanitation hose → boat was
+plumbed/wired for a powered (VacuFlush-style) head, later swapped to the manual toilet
+(inferred; fits the HEAD+MACERATOR switches). ACTION: meter it with HEAD breaker on to
+confirm, then cut back the rusted end, cap with adhesive heat-shrink, zip high + label
+"HEAD PWR" — it's a ready-made fused feed for a future head fan / tank sensor / electric head.
 Head: manual hand-pump marine head, intake seacock under/behind it (closed on trailer), waste to
 holding tank; trailer test = pitcher of water in bowl, pump to tank, pump dry. Expect a rebuild
 kit (joker valve) after 2 years dry. Check holding-tank vent (dirt daubers) + pump-out deck
