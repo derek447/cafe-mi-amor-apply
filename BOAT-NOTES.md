@@ -95,6 +95,10 @@ SX drives, serpentine belts.
 - Field check: https://claude.ai/code/artifact/7c72b538-c759-4f77-a93e-0a05d5e1d97f
 - Copart auction record: https://claude.ai/code/artifact/d4602e24-579e-481c-b065-d0f6ba0120af
 - Bimini/camper tops session (2026-08-28): 4 canvas shops + strategy, ~$3–4k factory fit
+  **Bimini measurement 2026-09-04: 90" between mounting points** — boundary of the 85–90
+  bracket; buy an adjustable-range (88–96 style) 4-bow frame, ~8 ft coverage, ≥54" height
+  (Derek 6'2" — check standing headroom at helm). Still need: height + length/strap landing
+  measurements, and mount style (deck-hinge vs rail clamp). Aftermarket 4-bow ≈ $250–450.
 - Kohler 5E genset: oil refill + fuel sender gasket diagnosis (session 2026-08-27)
 - **REGAL FACTORY OWNER'S MANUAL FOUND 2026-09-02: "Manual - 2760, 292, 3060, 3260.pdf"** (141 pp,
   scanned/no text layer, 72 MB) in Regal's older-model archive (Canto). Also grabbed the
