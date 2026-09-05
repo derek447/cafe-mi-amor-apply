@@ -564,3 +564,23 @@ with zero boot time and no dependencies (same philosophy as bilge floats never t
 They're also free parallel sensors for the ESP32 layer. Dead units (depth gauge, pitot speedo)
 get individually fixed/blanked, not torn out. Factory cluster also = resale value.
 Layered stack: gauges (always works) → Helix (sonar) → tablet (charts) → N100+ESP32 (brains).
+
+## Sonar-into-panels — verified options 2026-09-05 (replaces rigging the Helix 5)
+
+Decision: don't rig the cable-less Helix — sell it ($50-80 parts value, INFERRED) + the GSD 22
+lot to fund something that feeds the panels. Verified paths:
+- **Tier 1: Vexilar SP300 SonarPhone T-Box, $121-174** (NVN Marine $121 / Sportsman's Guide /
+  Amazon — page-verified 2026-09-05). Black box + transom transducer, own WiFi hotspot,
+  streams live sonar to free Android app = cockpit tablet IS the fish finder. Dual-beam
+  200 kHz, 240 ft. Caveat: basic 2D sonar, dated app — depth/structure, not imaging.
+- **Tier 2: Lowrance Elite FS 7** — Lowrance app MIRRORS + remote-controls full sonar on a
+  tablet (verified, lowrance.com/lowrance-app), AND has NMEA 2000 → depth/temp into
+  Signal K/HA via cheap gateway. Tackle Warehouse verified: $749 no-ducer / $849 HDI /
+  $949 AI 3-in-1, **15% Labor Day sitewide thru 9/9** (HDI ≈ $722). Used FS 7 $400-500
+  (INFERRED — check listings). Its own screen = sunlight backup glass at helm.
+- **TRAP (verified): Lowrance Eagle series does NOT network/mirror** — deliberately
+  standalone. Do not buy Eagle for this plan.
+- Used older Lowrance (Ti/Ti2 era): VERIFY current-Lowrance-app support before buying —
+  they shipped on the retired GoFree/Link app. FS series is safe.
+Recommendation: SP300 to prove the concept cheap this season, or Elite FS 7 HDI in the
+Labor Day window if fishing seriously — one box does imagery-to-tablet + depth-to-SignalK.
