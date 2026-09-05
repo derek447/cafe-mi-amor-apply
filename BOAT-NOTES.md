@@ -222,9 +222,19 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
   this only weeps while running. Worst case here = tired exhaust bellows seeping at a clamp —
   a little transom burble in the water, NOT a sinker; replace whenever the drive comes off,
   not a launch blocker. **Both engines now proven pumping** — engine-side water gates closed.
+  - **Port exhaust bellows has visible cracks in the bottom** (2026-09-05, inspected). SAFE:
+    the exhaust bellows is entirely OUTSIDE the hull — it connects the Y-pipe outlet on the
+    transom shield to the drive, underwater; a crack connects lake water to the exhaust
+    stream only. No path to the bilge (the watertight boundary is the transom shield +
+    U-joint bellows). Water can't reach the engine either — the Y-pipe rises above the
+    waterline inside the boat (standard anti-reversion geometry). While running, exhaust
+    side is positive pressure → flow pushes OUT through cracks, nothing drawn in. Symptom
+    of a torn one = louder/burblier idle at the transom (Alpha owners cut them off on
+    purpose). Replace when the drive comes off for gimbal/U-joint service — not before.
   - STILL REQUIRED before launch: trim both drives full up, flashlight every bellows with
-    the pleats stretched open (top U-joint boot on both sides especially — cracks hide in
-    the pleat valleys). ~2 min per drive.
+    the pleats stretched open (**top U-joint boot on both sides especially** — that's the
+    hull-integrity one; cracks hide in the pleat valleys). ~2 min per drive. Port's bottom
+    boot is now inspected and cleared.
 - **Kohler 5E genset fires on starter fluid** (2026-09-01) → spark/compression/controller OK,
   problem is fuel (same tank, same water). Check: electric fuel pump runs during crank; drain
   the carb bowl; carb fuel-shutoff solenoid pulls in at 12 V; inline filter; anti-siphon valve
