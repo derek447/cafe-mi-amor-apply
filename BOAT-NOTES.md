@@ -517,7 +517,10 @@ Three sonar-era layers aboard:
 - **Garmin GSD 22** network sounder module (mid-2000s) — useless without a Garmin plotter.
   **SELL IT.** Cable pile found in cabin (2026-09-05) confirms its kit: threaded screw-collar
   Garmin connectors incl. a large multi-pin, cable printed **AIRMAR TRANSDUCER CABLE #C32 /
-  C1225**, GARMIN-labeled leads. The loose **Airmar in-hull puck** in the mid bilge very
+  C1225**, GARMIN-labeled leads. **UPDATE 2026-09-05: the Airmar C32 cable is CUT** — GSD 22
+  transducer feed is scrap. Module still sells (list as "no transducer cable"). Check whether
+  the in-hull puck's own tail is the cut piece: cut = puck is scrap too (no splicing
+  transducer cable); intact connector = keep it in the sell lot. The loose **Airmar in-hull puck** in the mid bilge very
   likely belongs to this Garmin system (Garmin pucks are Airmar-made). Sell GSD 22 + cables
   + puck as a complete lot — worth more together; funds the Helix rigging.
 - **Humminbird Helix 5** (2015+) found aboard, **no mount/cables located**. Cable-pile search
