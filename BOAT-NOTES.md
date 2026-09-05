@@ -213,11 +213,18 @@ motor or relay contacts (transom sat low); hammer-tap test pending.
 - **Starboard water leak on top of engine** (thermostat housing / manifold water inlet /
   riser joint — exact spot TBD): snug clamps or re-torque cold, new gasket if it still weeps.
   Fix-before-lake item.
-- **Port water at prop hub not yet seen** (2026-09-01). Expect water at hub / relief slots
-  within 15–30 s of start on muffs; nothing by 60 s = key off (impeller dies dry). Order:
-  muff seal on port gills + hose wide open → pull impeller cover (vanes trailing, lubed,
-  gasket sealing) → pump-outlet hose pulled at the thermostat housing, 5-second run.
-  Port ran a while at 2500 with water unconfirmed — riser hand test is now mandatory.
+- **✅ PORT WATER FLOW CONFIRMED — 2026-09-05, on muffs.** Water exiting the back of the
+  outdrive at the **bottom of the lower (exhaust) bellows** area, ONLY while the engine runs.
+  Diagnosis: benign exhaust/cooling discharge — on muffs at idle there isn't enough exhaust
+  pressure to push all the spent cooling water out the prop hub, so it dribbles out around
+  the exhaust boot / relief slots. The static-vs-running test rules out the dangerous case:
+  a torn **U-joint bellows (the TOP boot)** leaks whenever water is present, engine or not;
+  this only weeps while running. Worst case here = tired exhaust bellows seeping at a clamp —
+  a little transom burble in the water, NOT a sinker; replace whenever the drive comes off,
+  not a launch blocker. **Both engines now proven pumping** — engine-side water gates closed.
+  - STILL REQUIRED before launch: trim both drives full up, flashlight every bellows with
+    the pleats stretched open (top U-joint boot on both sides especially — cracks hide in
+    the pleat valleys). ~2 min per drive.
 - **Kohler 5E genset fires on starter fluid** (2026-09-01) → spark/compression/controller OK,
   problem is fuel (same tank, same water). Check: electric fuel pump runs during crank; drain
   the carb bowl; carb fuel-shutoff solenoid pulls in at 12 V; inline filter; anti-siphon valve
