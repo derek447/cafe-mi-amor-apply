@@ -508,3 +508,36 @@ Rule learned (3x today): the label on the old part outranks every cross-referenc
 - Lube impeller with glycerin/dish soap only — no petroleum grease.
 - Vanes all bent the same way, trailing relative to rotation (CW from front); housing screws snug only.
 - Never run the pump dry — hand rotation is fine.
+
+## Depth/sonar gear inventory + cable hunt — 2026-09-05
+
+Three sonar-era layers aboard:
+- **In-dash Humminbird depth gauge** (factory ~2000, fed by 20A helm fuse) — dead until its
+  transducer story is sorted.
+- **Garmin GSD 22** network sounder module (mid-2000s) — useless without a Garmin plotter.
+  **SELL IT.** Cable pile found in cabin (2026-09-05) confirms its kit: threaded screw-collar
+  Garmin connectors incl. a large multi-pin, cable printed **AIRMAR TRANSDUCER CABLE #C32 /
+  C1225**, GARMIN-labeled leads. The loose **Airmar in-hull puck** in the mid bilge very
+  likely belongs to this Garmin system (Garmin pucks are Airmar-made). Sell GSD 22 + cables
+  + puck as a complete lot — worth more together; funds the Helix rigging.
+- **Humminbird Helix 5** (2015+) found aboard, **no mount/cables located**. Cable-pile search
+  2026-09-05: NO Humminbird-style ends found. Also found a set of **3 cut-off cables** +
+  old sealant residue = previous owner de-rigged something and snipped.
+- NEXT CHECK (cheap, before buying anything): **trace the transom wedge transducer's cable
+  forward.** If it ends in a slim black threaded barrel that matches nothing in the Garmin
+  pile → likely a Humminbird XNT that pairs with the Helix → buy only gimbal mount (~$20)
+  + PC-10 power cable (~$25). If the wedge's tail is one of the 3 CUT cables → wedge is
+  scrap → Helix also needs XNT 9 20 T (~$100). ID by connector: Garmin old-style = fat
+  knurled screw collar; Humminbird Helix = slimmer barrel, fewer pins. Count pins if unsure.
+- Airmar in-hull puck was loose (stuck-then-freed from hull) — whoever keeps it must re-bed
+  in epoxy/silicone with zero bubbles or it reads nothing.
+- Pitot speedo pickup on transom: clogged tip = dead speedo (poke wire, compressed air).
+
+## Transom drain plug — 2026-09-05
+
+- Garboard drain plug goes in from the **OUTSIDE** of the transom — that's where the threads
+  face. One plug, one location; there is no inside plug.
+- Washer-style plug: hand-tight + 1/4 turn with wrench. Bare NPT thread: 2 wraps teflon,
+  snug (soft brass — don't gorilla).
+- Dry-fit BEFORE ramp day (threads clean, plug bottoms out). Plug lives with the winch
+  handle / boat keys. Ritual: plug in before the trailer touches water, said out loud.
