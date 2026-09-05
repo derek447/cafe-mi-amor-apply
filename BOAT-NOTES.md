@@ -584,3 +584,20 @@ lot to fund something that feeds the panels. Verified paths:
   they shipped on the retired GoFree/Link app. FS series is safe.
 Recommendation: SP300 to prove the concept cheap this season, or Elite FS 7 HDI in the
 Labor Day window if fishing seriously — one box does imagery-to-tablet + depth-to-SignalK.
+
+## FINAL sonar/GPS decision — 2026-09-05 (priorities: depth + GPS charts + custom stack)
+
+Elite FS 7 OFF the list (imaging not a priority). The ~$150 answer:
+- **Vexilar SP300 T-Box ($121, page-verified)** integrates DIRECTLY into the Navionics
+  Boating app: split-screen sonar + chart, live depth on chart, and SonarChart Live builds
+  our own HD bathymetry of Ouachita as we drive (Panbo/PassageMaker/SportFishing confirm).
+  Hookup: tablet joins T-Box WiFi → open Navionics → sonar appears. Charts downloaded
+  offline (T-Box WiFi has no internet — fine on the lake).
+- **⚠ VERIFY BEFORE ORDERING:** integration dates to 2014-16; Garmin owns Navionics since
+  2017. Check the CURRENT Boating app still supports SonarPhone (install free app, look for
+  Sonar/SonarPhone in settings). If dropped: SP300's own app still works; depth-on-chart
+  plan B = Airmar DST810 smart transducer into Signal K ($399 verified, oceanrope/airmar.com;
+  needs thru-hull hole + N2K gateway — "later, if ever" upgrade).
+- SP300 data stays in tablet apps (no native Signal K/HA feed). Anchor watch via tablet;
+  HA-grade depth logging = someday-DST810 problem.
+- Sell Helix 5 + GSD 22 lot → sonar side of the build ≈ net-free.
