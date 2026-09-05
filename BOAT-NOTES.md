@@ -544,3 +544,23 @@ Three sonar-era layers aboard:
   snug (soft brass — don't gorilla).
 - Dry-fit BEFORE ramp day (threads clean, plug bottoms out). Plug lives with the winch
   handle / boat keys. Ritual: plug in before the trailer touches water, said out loud.
+
+## Navigation architecture decision — 2026-09-05 (build, don't buy an MFD)
+
+A prebuilt MFD bundles 4 jobs; only sonar is hard to DIY. Our stack (mostly already planned/owned):
+1. **Charts/GPS** = cockpit rugged tablet + Navionics or Aqua Map (~$25/yr, verify at buy).
+   Better + more current Ouachita charts than most plotters; tablet has real GPS chip.
+2. **Sonar** = Helix 5 (owned). Never DIY sonar — proprietary DSP. $45–145 to rig pending
+   transom-wedge cable trace.
+3. **Engine/systems** = ESP32 + Signal K/HA on the N100 (the monitoring project). MEFI-3 has
+   no cheap NMEA2000 path — tap the existing analog SENDERS in parallel (high-impedance ADC
+   on sender wires; doesn't disturb gauges). Add USB GPS puck (VK-162 class, ~$20) to N100
+   so the hub has position/tracks/anchor watch natively.
+4. **Glass** = the two planned panels.
+DIY delta over existing plan ≈ $50–170 vs $2,000+ MFD + transducer + N2K network. BUILD.
+
+**ANALOG GAUGES STAY — hard rule.** Oil pressure + water temp are engine-saving instruments
+with zero boot time and no dependencies (same philosophy as bilge floats never through ESP32).
+They're also free parallel sensors for the ESP32 layer. Dead units (depth gauge, pitot speedo)
+get individually fixed/blanked, not torn out. Factory cluster also = resale value.
+Layered stack: gauges (always works) → Helix (sonar) → tablet (charts) → N100+ESP32 (brains).
