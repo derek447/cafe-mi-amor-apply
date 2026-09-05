@@ -601,3 +601,8 @@ Elite FS 7 OFF the list (imaging not a priority). The ~$150 answer:
 - SP300 data stays in tablet apps (no native Signal K/HA feed). Anchor watch via tablet;
   HA-grade depth logging = someday-DST810 problem.
 - Sell Helix 5 + GSD 22 lot → sonar side of the build ≈ net-free.
+- **Rejected 2026-09-05: BoatEye360 "External Monitor V2"** ($299, 10", IP68) — NOT a
+  touchscreen ("touch screen buttons only"), no brightness spec published, no OS/GPS, vendor
+  supports only their own cameras. Dumb HDMI display = wrong shape for the cockpit slot
+  (would drag the N100 to the helm). Cockpit panel must BE a computer → rugged Android
+  tablet stands as the pick.
