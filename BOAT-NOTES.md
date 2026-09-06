@@ -767,3 +767,17 @@ No documented full glass-dash 2760 build exists online — but the dash was DESI
   CNC a bezel panel dropping the Android tablet into the factory bay, wire pass-through
   behind, original smoked lid still closes over it. Zero new holes; looks factory.
   MEASURE next visit: recess W×H×depth + hinge points intact.
+
+## Learn fiberglass — on-ramp (2026-09-06)
+
+Epoxy first (forgiving, no stink, sticks to old polyester), gelcoat/polyester later (cosmetic).
+Kit ~$150: TotalBoat/West epoxy WITH PUMPS (bad ratio = #1 beginner failure), 6oz cloth +
+1708 biax, colloidal silica + fairing filler, chip brushes/cups/squeegees, nitrile gloves
+BY THE BOX (epoxy skin sensitization is permanent — gloves every time), organic-vapor
+respirator for resin, P100 for sanding (bottom-paint rule stands).
+Curriculum on this boat, in order: (1) re-bed Airmar puck (pure pour, learn mixing/bubbles);
+(2) seal cut edges of dash panel cutouts (wet-out); (3) glass backing block for 2nd bilge
+pump/high-water switch (first cloth layup, hidden); (4) topside gelcoat chip repairs;
+(5) someday dash recut/transom work.
+Resources: Boatworks Today (Andy Miller, YouTube) + West System "Fiberglass Boat Repair &
+Maintenance" free PDF.
