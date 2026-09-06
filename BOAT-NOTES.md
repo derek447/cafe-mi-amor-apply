@@ -781,3 +781,14 @@ pump/high-water switch (first cloth layup, hidden); (4) topside gelcoat chip rep
 (5) someday dash recut/transom work.
 Resources: Boatworks Today (Andy Miller, YouTube) + West System "Fiberglass Boat Repair &
 Maintenance" free PDF.
+- **Angled internal pockets for screens (design locked-in 2026-09-06):** recessed angled
+  pocket = factory glass-helm look. Engineering rules for the cut files: screen tilt only
+  10-20° back from vertical (screen must "see" dark torso/dash at mirror angle, NOT sky —
+  cardboard mockup from the helm seat before cutting); HEAT = killer spec (open pocket
+  back into dash void + vent slots top/bottom of bezel; smoked lid = parked/shade only,
+  lithium + oven = swollen battery); weep slot at pocket low corner; USB-C entry from
+  below w/ drip loop; machined retention lip + thumb-latch/magnet quick-release (tablet
+  goes home = anti-theft). Build: (a) CNC layered acrylic/HDPE wedge stack + bezel = do
+  NOW for electronics-bay tablet; (b) CNC foam plug → glass over → fair → paint factory
+  grey = the molded look, first real layup, LATER for second screen.
+  NEED from boat: recess W×H×D + seated eye height above dash → pocket angle geometry.
