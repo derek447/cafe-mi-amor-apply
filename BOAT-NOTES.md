@@ -759,3 +759,11 @@ No documented full glass-dash 2760 build exists online — but the dash was DESI
   bow access). CHECK: side latch hardware grabs (loose panel underway = flying acrylic),
   hinge screws snug, gasket/trim intact. Hazy = Novus plastic polish; reseal near it
   plastic-safe silicone ONLY (PU crazes acrylic). Run latched up at speed.
+- **Tinted panel IDENTIFIED (2026-09-06, ref photos): factory smoked-acrylic ELECTRONICS
+  COVER** for the recessed mid-dash bay (flat shelf between top gauge pod and lower gauge
+  row) — Regal's helm electronics bay, where factory chartplotter/depth package mounted;
+  cover hinges/lifts off, protects from sun/spray/theft-eyes when parked. Boats without
+  the package = tinted lid over empty shelf. **THAT RECESS = THE TABLET BAY, pre-built:**
+  CNC a bezel panel dropping the Android tablet into the factory bay, wire pass-through
+  behind, original smoked lid still closes over it. Zero new holes; looks factory.
+  MEASURE next visit: recess W×H×depth + hinge points intact.
