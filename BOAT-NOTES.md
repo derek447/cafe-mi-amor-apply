@@ -845,3 +845,26 @@ curiosity pace behind floats + insurance.
   fair trial after reattachment. Hose the silt off the transom before the second look.
   (Transom already cleaned since that Aug 7 photo — skip the hose-down; go straight to
   hand-swing test + ram foot/spade plate inspection + hinge screw bedding check.)
+
+## NEXT FLIP — hunt criteria (2026-09-06, boat ~90% done)
+
+The arbitrage: electronics/systems guy in a market that prices ELECTRONIC death like
+STRUCTURAL death. Filter = healthy hull, dead systems (no-start, fried wiring, dead
+gauges = others bid scrap, we bid knowing it's an afternoon with a meter).
+- **Target:** 1996-2006 express cruisers 26-32ft, GM small-block sterndrives (4.3/5.0/5.7;
+  crate engines $2-4k if truly dead): Sea Ray Sundancer 260/280 (deepest resale market),
+  Regal (we have the factory manual archive method), Four Winns Vista, Maxum, Monterey.
+  Buy $1.5-4k, parts $2-4k, retail $22-35k.
+- **Freshwater loss stories ONLY.** Walk from: saltwater submersion, helm fire, soft
+  transom/stringers (structural rot = money pit).
+- **Lane 2: tritoons** — scrap-money buys, simple systems, bottomless lake demand,
+  $4k → $25k common.
+- **Timing:** hurricane season + end-of-season = fall auction glut, prices crater
+  Sept-Nov; sell side peaks April-May. BUY NOVEMBER, RESTORE WINTER, LIST SPRING at
+  Hot Springs (Hamilton/Ouachita money).
+- **Sources:** Copart + IAA (storm/flood boat filters), GovDeals/municibid (municipal/
+  patrol boats: maintained hulls + dead electronics = dream ticket), bank repo
+  liquidators, end-of-season marina "make it go away" listings.
+- **ARIA JOB:** scraper watching Copart/IAA/GovDeals against this profile (hull class,
+  engine family, loss type, bid vs resale comp) → texts Derek on candidates. Spec in
+  sclass-platform when ready.
