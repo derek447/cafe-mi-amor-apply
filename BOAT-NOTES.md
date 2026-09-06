@@ -823,3 +823,8 @@ curiosity pace behind floats + insurance.
   w/ wires (snap back in / replace $10-15 ea if lock ears broke), (b) caps only, NO bodies/
   wires = system de-rigged, orphan like HEAD PWR feed, or (c) bodies dead inside. TRANSOM
   LOOK NOW FIRST: no tab plates + no wires = no tab system exists, case closed $0.
+- **Trim tabs CONFIRMED on transom (2026-09-06)** → system real, loose caps = the fault
+  line. Next: photo a ram (slim + fluid line = Bennett hydraulic w/ bilge pump box; fat +
+  wire pair = Lenco electric); check ram shafts for pitting/frozen (2 wet years); pull
+  switch plate → bodies w/ wires = snap in / ~$15 ea; nothing = trace de-wired harness.
+  Then key-on listen test. Restore job, likely ~$30, curiosity pace.
