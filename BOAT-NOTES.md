@@ -606,3 +606,11 @@ Elite FS 7 OFF the list (imaging not a priority). The ~$150 answer:
   supports only their own cameras. Dumb HDMI display = wrong shape for the cockpit slot
   (would drag the N100 to the helm). Cockpit panel must BE a computer → rugged Android
   tablet stands as the pick.
+- **Cockpit tablet shortlist (2026-09-05):** Oukitel RT6 (10.1" FHD+, 400 nits VERIFIED,
+  20Ah battery, IP68/69K, GPS; sold out Geekbuying, Amazon listing live) vs Ulefone Armor
+  Pad 3 Pro (10.36" 2K, huge battery; ~$265 import, Notebookcheck-verified). Budget 8":
+  Armor Pad Pro. Premium: Armor Pad 4 Ultra (Android 15, Corning, ~$400-500 INFERRED).
+  RULES: buy the 4G/LTE variant (that's where the real GPS chip is); brightness is the
+  weak spot at 400-550 nits (bimini fine, direct sun meh — Xenarc 1200-nit is the someday
+  fix); check Amazon reviews for "GPS"/"brightness" on the exact model year — these brands
+  revise silently. Exact cart price: check phone (Amazon blocks remote pulls).
