@@ -828,3 +828,11 @@ curiosity pace behind floats + insurance.
   wire pair = Lenco electric); check ram shafts for pitting/frozen (2 wet years); pull
   switch plate → bodies w/ wires = snap in / ~$15 ea; nothing = trace de-wired harness.
   Then key-on listen test. Restore job, likely ~$30, curiosity pace.
+- **Tab photo IDs system as BENNETT-STYLE HYDRAULIC** (slim rod + compact ram, not fat
+  Lenco barrel; confirm: fluid line at ram top = hydraulic final). Tab fully drooped =
+  normal dormant hydraulic (pressure bleeds off; electric would hold position — another
+  Bennett point). Restore: switch bodies behind plate → find HPU in aft bilge (swamp-zone;
+  check reservoir level + milky fluid = water) → key-on listen + watch tab; 2-yr Bennett
+  often just needs fluid + purge cycles. ALSO: check tab hinge/ram-mount screws into
+  transom — bedded holes at waterline, drooped tab tugging old bedding = classic slow-leak
+  path; re-bed if weep stains. Watch drooped tabs on trailer bunks.
