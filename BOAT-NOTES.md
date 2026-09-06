@@ -746,3 +746,9 @@ No documented full glass-dash 2760 build exists online — but the dash was DESI
   lip; switch cutouts + engraved backlit legends; CNC mounting frames/cradle behind the
   face onto the factory aluminum backing plates. Pods close together → CNC stepped bridge
   piece spanning them = wide visual surface, zero fiberglass cut, reversible.
+- **Grey dash over cream boat = normal/deliberate** (anti-glare: dark dash tops don't
+  reflect into the windshield at sightline; industry standard, Regal two-toned Commodores).
+  30-sec test: polish a hidden spot — cuts to glossy cream = just oxidation (whole dash
+  would polish back); stays grey under gloss = factory. Also check for overspray/tape
+  lines = PO repaint. Factory grey is good for the CNC panel plan — matte black on grey
+  reads factory glass-cockpit.
