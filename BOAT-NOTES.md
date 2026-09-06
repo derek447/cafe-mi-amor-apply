@@ -800,3 +800,21 @@ Maintenance" free PDF.
   deeper than any storage pocket → CNC wedge box under shelf cutout + bezel + smoked lid
   closes over. Cardboard mockup from helm seat doubly critical at steep angles (sky glare
   lives or dies by degrees).
+
+## Trim tabs — troubleshooting queue (2026-09-06)
+
+Dash rockers by throttle = TRIM TAB switches (bow up/down labeling; drive trim is on the
+throttle handle). Likely Bennett hydraulic. Switches physically loose. HPU + wiring live
+low in the stern = swamp-zone suspects. Order of attack:
+1. Transom check: two stainless plates w/ rams at hull trailing edge = tabs exist
+   (no plates = orphan switches like the HEAD PWR feed; done).
+2. Fix looseness first (mounting nut / plate screws) + reseat spade terminals — loose
+   spade = #1 "works sometimes" cause.
+3. Listen test: key on, hold rocker, ear aft — pump hums = hydraulic problem;
+   silence = electrical.
+4. Meter switch: no 12V feed → find tab fuse/breaker (manual DC pages); feed OK but no
+   output on press → dead rocker (~$15, Bennett sells exact).
+5. Pump runs, no movement → HPU reservoir (Bennett = Dexron ATF), level, air, oily
+   traces on lines, ram condition. Swamped 2 yrs = rusted pump motor plausible.
+NOT a launch gate — drive trim covers it. Fix loose switch (10 min), hydraulics at
+curiosity pace behind floats + insurance.
