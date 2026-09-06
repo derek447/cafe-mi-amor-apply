@@ -752,3 +752,10 @@ No documented full glass-dash 2760 build exists online — but the dash was DESI
   would polish back); stays grey under gloss = factory. Also check for overspray/tape
   lines = PO repaint. Factory grey is good for the CNC panel plan — matte black on grey
   reads factory glass-cockpit.
+- **Dash grey CONFIRMED factory** (2026-09-06): ends exactly at dash part boundaries =
+  molded-in grey gelcoat, anti-glare package. Keep.
+- **Tinted panel folded down on dash = windshield center WALK-THROUGH closure**, not a
+  dash cover: lift + latch across the gap to complete the windshield for running (down =
+  bow access). CHECK: side latch hardware grabs (loose panel underway = flying acrylic),
+  hinge screws snug, gasket/trim intact. Hazy = Novus plastic polish; reseal near it
+  plastic-safe silicone ONLY (PU crazes acrylic). Run latched up at speed.
