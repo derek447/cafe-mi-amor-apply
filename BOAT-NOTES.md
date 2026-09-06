@@ -686,3 +686,11 @@ Tailscale+companion token → ESP32 nodes → alert-router route → rugged tabl
   (aria-dev/src/companion/desktop) + Tailscale (bridge APK is Android-only). Android-only
   apps (Navionics/SonarPhone) run on a second small screen: TB336ZA or cheap Android
   beside the Dell = two-screen helm, one brain.
+- **Getac F110 flood on eBay (2026-09-06) — triage rule = GENERATION:** G1/G2 skip;
+  G3/G4 (6th/7th-gen i5) = Linux-only helm, only if sub-$150; **G5 (i5-8265U, 8th-gen) =
+  sweet spot**, Win11-eligible, same class as Dell 7220; G6/11th-12th gen = 1000-nit,
+  pricier. All gens have LumiBond sunlight screens (~800-1000 nits). Listing survives only
+  if: no AD enrollment + Absolute disabled + **BIOS not password-locked (common on fleet
+  Getacs)** in writing; GPS module confirmed; battery+charger; screen photographed ON
+  (cop-unit burn-in). Getac bonus: many configs have real RS-232 = native NMEA 0183.
+  Benchmark: the $299 unlocked Dell 7220; clean F110 G5 under ~$250 beats it.
