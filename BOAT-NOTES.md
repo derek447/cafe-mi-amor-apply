@@ -843,3 +843,5 @@ curiosity pace behind floats + insurance.
   moves without ram = detached. Fix = Bennett lower mounting kit ~$10-20 or press foot
   back on. Usually strike/brittle-age damage, NOT hydraulic failure — pump/fluid gets a
   fair trial after reattachment. Hose the silt off the transom before the second look.
+  (Transom already cleaned since that Aug 7 photo — skip the hose-down; go straight to
+  hand-swing test + ram foot/spade plate inspection + hinge screw bedding check.)
