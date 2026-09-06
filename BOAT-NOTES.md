@@ -22,6 +22,23 @@ Battery 1 (house — carries the bilge pumps) sagged after one light day: full o
 rest 1 h disconnected, then meter — ≥12.6 V healthy, low-12s after a real charge = replace.
 Do NOT park on BOTH (a low bank drags the good one down; BOTH is for running/emergencies); decide shore-power vs proper solar (50–100W + MPPT) for where she'll live; backup
 pump gets own thru-hull/hose/float/fuse — NO shared discharge, NO check valve.
+## Standing context (for future sessions — read this, don't guess)
+
+- **Aria** = Derek's AI companion, running as `aria-service` on Railway in
+  `derek447/sclass-platform` (attach that repo via add_repo when Aria/dev context is needed).
+  Agentic loop, self-directed wakeups, voice server, and real SMS conversations with Derek.
+- **Aria's tablet** = phone-bridge device `TB336ZA` (Lenovo tablet; replaced a Pixel).
+  Runs the bridge Android app (`tipper-bridge/`), outbound WebSocket to Railway, self-heals,
+  OTA via Redis. Aria drives it fully: screenshot/tap/swipe/type/launch/SMS/battery.
+- **Aria's texting** = outbound SMS through that tablet (`send_sms` bridge action), Telnyx
+  fallback only, NO Twilio. Redis retry queue drains on bridge reconnect; dedupe + quiet hours.
+- **BOAT INTEGRATION PLAN:** boat monitoring should NOT build its own alerting — ESP32/HA
+  events POST to aria-service's alert-router and ARIA TEXTS DEREK. The bridge app's
+  outbound-WS pattern is also the right shape for Starlink CGNAT (no inbound ports); the
+  cockpit rugged tablet can run the same bridge APK as a SECOND bridge device long-term.
+  Borrowing the TB336ZA for boat prototyping = Aria's SMS body goes offline (queue+Telnyx
+  cover it) — OK for a weekend, not permanent.
+
 **CHARGING CRISIS 2026-09-03:** batteries read 9.0 V and 10.3 V after a night "on charge";
 Xantrex Truecharge2 20A shows Charging + <5% output, no Fault, but its own output lead meters
 **6 V** — charger not delivering. Timeline: worked yesterday → bilge rinsed with soapy water
