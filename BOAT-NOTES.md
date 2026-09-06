@@ -694,3 +694,11 @@ Tailscale+companion token → ESP32 nodes → alert-router route → rugged tabl
   Getacs)** in writing; GPS module confirmed; battery+charger; screen photographed ON
   (cop-unit burn-in). Getac bonus: many configs have real RS-232 = native NMEA 0183.
   Benchmark: the $299 unlocked Dell 7220; clean F110 G5 under ~$250 beats it.
+- **VERDICT x86 vs Android helm (2026-09-06): ANDROID WINS for this boat.** Two decisive
+  facts: (1) Lake Ouachita chart data lives in Navionics (Android/iOS only) — OpenCPN's
+  free sources are coastal-focused and weak on inland Corps lakes; (2) SonarPhone is
+  Android-only, so x86 needs an Android sidekick anyway = two devices. Plus: built-in GPS,
+  5-10W vs 15-25W draw, battery=UPS, bridge APK proven. x86's one real win = 1000-nit
+  direct sun; fixes first: mount in bimini shade line; a 1000-nit Dell/Getac is the V2
+  SECOND screen (custom dashboard), never the primary. Buy list unchanged: rugged Android
+  tablet + SP300 + Navionics (~$400 all-in).
