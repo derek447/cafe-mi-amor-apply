@@ -792,3 +792,11 @@ Maintenance" free PDF.
   NOW for electronics-bay tablet; (b) CNC foam plug → glass over → fair → paint factory
   grey = the molded look, first real layup, LATER for second screen.
   NEED from boat: recess W×H×D + seated eye height above dash → pocket angle geometry.
+- **Off-the-shelf angled tablet pockets: DON'T EXIST** (verified — market is clamp/rail
+  mounts; THT confirms flush/recessed = custom audio-shop fab). Donor shortcuts: molded
+  glove-box/storage pockets (Attwood/T-H Marine ~$20-40) as pocket shells + CNC bezel;
+  MFD flush-mount wedges as geometry reference. Flat shelf physics: drop-in pocket must
+  hold screen STEEP (60-75° from horizontal, lectern-slot style) or it faces the ceiling —
+  deeper than any storage pocket → CNC wedge box under shelf cutout + bezel + smoked lid
+  closes over. Cardboard mockup from helm seat doubly critical at steep angles (sky glare
+  lives or dies by degrees).
