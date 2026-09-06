@@ -659,3 +659,9 @@ service calls, realtime subscriptions). The helm is an integration, not a build:
    or patch.
 Build order: TB336ZA aboard this weekend (Navionics + SonarPhone check) → N100+HAOS+
 Tailscale+companion token → ESP32 nodes → alert-router route → rugged tablet as bridge #2.
+- **Widescreen rugged tablets (asked 2026-09-06): don't exist** — rugged market is all
+  16:10/squarer. Closest: 11" landscape = Ulefone Armor Pad 5 Ultra (TechRadar best-overall,
+  IP68/69K) or ORCATAB WT1 Pro (2026: 11" 2K 120Hz, 450 nits stated, Android 15, 20Ah, 5G).
+  True ultrawide = automotive 32:9 strip displays (NOT IP-rated, no GPS) — viable later as
+  N100-driven GAUGE strip under the helm brow only; verify brightness before buying.
+  Xenarc 1022TSH ($659, IP67, 1200 nits, 16:10) remains the marine-monitor path.
