@@ -717,3 +717,21 @@ Tailscale+companion token → ESP32 nodes → alert-router route → rugged tabl
   (Rule-A-Matic Plus / Johnson Ultima ×2) + high-water alarm. Launch #1 happens with
   real parts: proper floats wired, real winch found, pump wet-tested + system sanitized
   unhurried, trim-up bellows inspection done in daylight, no stopgaps.
+
+## Custom dash research — 2026-09-06 (2760 split-pod helm)
+
+No documented full glass-dash 2760 build exists online — but the dash was DESIGNED for this:
+- **VERIFIED (Regal factory + owners forum):** this era's helm = flat dash panels on
+  aluminum backing plates in the fiberglass pods; panels unscrew individually. Commodore
+  owner precedent: traced panels → local plastics shop → all 3 in black StarBoard/acrylic,
+  cut/drilled/finished, ~$250.
+- **Design that fits the split pods:** gauge pod stays analog (layer 0; blank/repurpose the
+  dead Humminbird hole); largest panel gets flush tablet cutout — MEASURE POD DEPTH FIRST
+  (~1"+ needed; too shallow = RAM mount on dash top, panel gets switches instead); switch
+  panel = custom backlit rockers for monitoring/AV controls.
+- **Vendors:** New Wire Marine (custom backlit dash/switch panels, E-Panel Builder,
+  reproduces originals) and Boat Outfitters (acrylic/StarBoard, print-and-test-fit step).
+  Process: unscrew factory panel → ship/trace as template → CNC panel back → transfer
+  hardware. Keep originals boxed for resale.
+- iboats trick: reverse-printed Lexan film laminated on black acrylic = full custom
+  legends/graphics.
