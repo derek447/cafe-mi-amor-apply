@@ -637,3 +637,25 @@ Elite FS 7 OFF the list (imaging not a priority). The ~$150 answer:
   water in a dry bag as cockpit panel v0.5 (real-sun readability test tells us the nits
   we actually need). Laptop path: HAOS in VirtualBox/Docker = dev bench for dashboards,
   Music Assistant, ESPHome; migrate to N100 later via HA snapshot restore (~10 min).
+
+## BOAT HELM = ARIA'S THIRD PLACE — architecture locked 2026-09-06
+
+Companion (`aria-dev` / @starlight/companion) ALREADY has a full Home Assistant integration
+(`src/companion/integrations/home-assistant.ts`: REST+WS, entity discovery, states, history,
+service calls, realtime subscriptions). The helm is an integration, not a build:
+1. **N100 cabin hub:** HAOS + ESPHome + Music Assistant (+Frigate later) + **Tailscale**
+   (outbound-only — Starlink CGNAT solved, same pattern as the phone bridge).
+2. **Companion → boat HA** via long-lived token: Aria reads every sensor, drives every
+   switch, has getHistory() for trends.
+3. **ESP32 sensors** (per monitoring section) surface as HA entities → companion
+   auto-discovers. Bilge floats stay HARDWIRED; ESP32 watches only.
+4. **Alerting:** HA automation → webhook → aria-service alert-router → Aria SMS via
+   TB336ZA (existing retry queue + dedupe). TASK in sclass-platform: authed inbound
+   boat-events route on the alert-router (~small addition). Reserve-bank phone-home
+   stays as the independent last-resort layer.
+5. **Rugged tablet at helm:** Navionics + SP300 + HA dashboard + **bridge APK as second
+   phone-bridge device** (Aria can see/drive the helm remotely). CHECK: PhoneBridgeManager
+   multi-device — connections carry a `device` string (anticipated?); confirm 2 concurrent
+   or patch.
+Build order: TB336ZA aboard this weekend (Navionics + SonarPhone check) → N100+HAOS+
+Tailscale+companion token → ESP32 nodes → alert-router route → rugged tablet as bridge #2.
