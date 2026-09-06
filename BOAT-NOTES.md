@@ -674,3 +674,15 @@ Tailscale+companion token → ESP32 nodes → alert-router route → rugged tabl
   Navionics/SonarPhone apps; GPS was a config OPTION (verify per unit; $20 USB puck fixes).
   Locks explained: AD/Autopilot = cloud-side enrollment survives wipes; Absolute =
   BIOS-embedded agent, re-injects into Windows forever, inert under Linux.
+- **UNLOCKED 7220 @ $299 (2026-09-06): BUY SIGNAL** — pending seller confirmation of:
+  (1) clean Windows install, personal-account setup, NO org enrollment screen (if same
+  seller as the locked lot, confirm THIS unit differs in writing); (2) Absolute =
+  Disabled/Not Activated in BIOS (make them check the BIOS page); (3) GPS/WWAN module
+  populated (Device Manager screenshot; absent = $20 USB puck); (4) battery count +
+  health (dual hot-swap slots, spares $50-80); (5) charger included (12V vehicle
+  adapters exist for boat power).
+  **Helm plan v2 (x86 variant):** Dell = main helm glass, Linux/Win11 + OpenCPN charts +
+  Signal K/HA dashboard @ 1000 nits. Aria presence via companion DESKTOP module
+  (aria-dev/src/companion/desktop) + Tailscale (bridge APK is Android-only). Android-only
+  apps (Navionics/SonarPhone) run on a second small screen: TB336ZA or cheap Android
+  beside the Dell = two-screen helm, one brain.
