@@ -868,3 +868,25 @@ gauges = others bid scrap, we bid knowing it's an afternoon with a meter).
 - **ARIA JOB:** scraper watching Copart/IAA/GovDeals against this profile (hull class,
   engine family, loss type, bid vs resale comp) → texts Derek on candidates. Spec in
   sclass-platform when ready.
+
+## THE NEXT PROJECT — decided direction (2026-09-06): the lake systems shop
+
+Three layers, one demo boat, uses every skill (pro audio/DMX + marine systems + CNC +
+fiberglass + sclass/Aria platform + Hot Springs market):
+1. **Flips** (capital): Nov-buy electronics-dead cruisers, winter restore, spring sell —
+   per hunt criteria above. Each flip = rolling portfolio piece.
+2. **Marine A/V + lighting + glass-helm installs** (income): Lake Hamilton/Ouachita spends
+   big on audio ($5-15k builds routine) + RGB/underwater lighting; competitors are car-audio
+   shops faking marine. Derek = actual pro-audio/DMX + bilge-credible + CNC custom dash
+   panels (recessed tablet pockets, backlit switch panels) nobody local can make.
+   **Two Loose Screws = the demo unit/showroom.**
+3. **Aria boat monitoring subscription** (moat + recurring): ESP32 + Starlink/LTE +
+   existing SMS pipeline = "your boat texts you when the bilge runs," $30-50/mo, no lake
+   competitor has a platform. Bolts onto every install + every flip ("1 yr monitoring
+   included" = differentiation at sale). Pays year-round incl. dead months.
+Why not alternatives: pure flips = linear + capital-bound; hardware product = inventory/
+support hell; software-only wastes the rare combo (bilge-credible AND code-credible).
+**First moves:** finish 2760 helm as designed (= product development now) → first
+monitoring install on own boat, let it text through fall → one at-cost friend install for
+the photo set → spring: show up at Hot Springs with flipped boat + portfolio helm +
+subscription pitch.
