@@ -614,3 +614,9 @@ Elite FS 7 OFF the list (imaging not a priority). The ~$150 answer:
   weak spot at 400-550 nits (bimini fine, direct sun meh — Xenarc 1200-nit is the someday
   fix); check Amazon reviews for "GPS"/"brightness" on the exact model year — these brands
   revise silently. Exact cart price: check phone (Amazon blocks remote pulls).
+- **Prototype on Aria's Lenovo (2026-09-05):** stack is hardware-agnostic — build now, $0.
+  Android tablet path: install free Navionics Boating app → CHECK settings for
+  Sonar/SonarPhone support (= the SP300 pre-order gate); HA companion app; take it on the
+  water in a dry bag as cockpit panel v0.5 (real-sun readability test tells us the nits
+  we actually need). Laptop path: HAOS in VirtualBox/Docker = dev bench for dashboards,
+  Music Assistant, ESPHome; migrate to N100 later via HA snapshot restore (~10 min).
