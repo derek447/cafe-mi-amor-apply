@@ -702,3 +702,18 @@ Tailscale+companion token → ESP32 nodes → alert-router route → rugged tabl
   direct sun; fixes first: mount in bimini shade line; a 1000-nit Dell/Getac is the V2
   SECOND screen (custom dashboard), never the primary. Buy list unchanged: rugged Android
   tablet + SP300 + Navionics (~$400 all-in).
+
+## Launch deferred past 2026-09-06 weekend — insurance is gate #1
+
+- **Try binding NOW anyway (15 min, free):** Progressive and GEICO/BoatUS both quote AND
+  purchase fully online (VERIFIED) — no agent hours; weekend bind is likely possible
+  (INFERRED — the quote flow answers definitively). Liability-only for the $2k boat.
+  **Answer salvage/prior-damage questions HONESTLY** — a policy bound on wrong answers
+  evaporates at claim time; liability-only usually needs no survey. If Progressive
+  declines on salvage history → GEICO/BoatUS → Monday: independent agent (Markel,
+  Foremost, National General). AR requires liability >50 HP; we have 410.
+- **Silver lining of the slip:** order tonight so parts beat the new launch date —
+  IAC (Sierra 18-7704 or Recmar REC3855194), starboard impeller kit, bilge floats
+  (Rule-A-Matic Plus / Johnson Ultima ×2) + high-water alarm. Launch #1 happens with
+  real parts: proper floats wired, real winch found, pump wet-tested + system sanitized
+  unhurried, trim-up bellows inspection done in daylight, no stopgaps.
