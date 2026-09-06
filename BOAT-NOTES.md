@@ -735,3 +735,14 @@ No documented full glass-dash 2760 build exists online — but the dash was DESI
   hardware. Keep originals boxed for resale.
 - iboats trick: reverse-printed Lexan film laminated on black acrylic = full custom
   legends/graphics.
+- **Whole-dash recuts ARE done** (THT: "chop console front, glass in new flat section";
+  pro shops cut old recess + glass new face during electronics packages) — but nearly all
+  on flat center consoles. 2760's wraparound multi-pod dash = compound curves; full recut
+  = real glasswork (cut/fill valleys/fair/gelcoat), winter project, permanent, resale
+  stakes. Verdict: earns its cost ONLY if dash core turns up soft/rotten someday.
+- **DEREK HAS A CNC CUTTER → middle tier:** CNC new pod faces in 1/4" cast acrylic matte
+  black or Dibond (acrylic: single-flute upcut, high feed, no melting; StarBoard machines
+  easy but flexes/no gloss). Machine a flush REBATE pocket so tablet sits recessed with a
+  lip; switch cutouts + engraved backlit legends; CNC mounting frames/cradle behind the
+  face onto the factory aluminum backing plates. Pods close together → CNC stepped bridge
+  piece spanning them = wide visual surface, zero fiberglass cut, reversible.
