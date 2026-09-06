@@ -665,3 +665,12 @@ Tailscale+companion token → ESP32 nodes → alert-router route → rugged tabl
   True ultrawide = automotive 32:9 strip displays (NOT IP-rated, no GPS) — viable later as
   N100-driven GAUGE strip under the helm brow only; verify brightness before buying.
   Xenarc 1022TSH ($659, IP67, 1200 nits, 16:10) remains the marine-monitor path.
+- **Dell Latitude 7220 Rugged Extreme (eBay find 2026-09-06):** 11.6" FHD **1000-nit
+  sunlight-viewable** (VERIFIED, Dell PR), IP65, MIL-STD-810G/H, glove touch, hot-swap
+  batteries, i5-8365U/16GB/256GB. Seller's 7 units @ $259.99 are **Active Directory +
+  Absolute locked = pass** (works until first reset; Absolute = remote-brick risk; that's
+  unlocked pricing for locked goods). BUT unlocked 7220/7212s run $300-500 on eBay and are
+  the 1000-nit helm option — caveat: x86 not Android → OpenCPN/Linux + Signal K instead of
+  Navionics/SonarPhone apps; GPS was a config OPTION (verify per unit; $20 USB puck fixes).
+  Locks explained: AD/Autopilot = cloud-side enrollment survives wipes; Absolute =
+  BIOS-embedded agent, re-injects into Windows forever, inert under Linux.
