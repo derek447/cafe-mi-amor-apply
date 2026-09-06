@@ -836,3 +836,10 @@ curiosity pace behind floats + insurance.
   often just needs fluid + purge cycles. ALSO: check tab hinge/ram-mount screws into
   transom — bedded holes at waterline, drooped tab tugging old bedding = classic slow-leak
   path; re-bed if weep stains. Watch drooped tabs on trailer bunks.
+- **Ram close-up (Aug 7 photo): Bennett hydraulic CONFIRMED** (cylinder + hinged upper
+  mount, no wires; fluid feeds at ram top). **Suspected: ram foot POPPED OFF its lower
+  mounting plate** (spade plate w/ stud visible beside the rod foot) — would fully explain
+  the dead droop (disconnected, not just depressurized). Confirm: swing tab by hand — tab
+  moves without ram = detached. Fix = Bennett lower mounting kit ~$10-20 or press foot
+  back on. Usually strike/brittle-age damage, NOT hydraulic failure — pump/fluid gets a
+  fair trial after reattachment. Hose the silt off the transom before the second look.
