@@ -818,3 +818,8 @@ low in the stern = swamp-zone suspects. Order of attack:
    traces on lines, ram condition. Swamped 2 yrs = rusted pump motor plausible.
 NOT a launch gate — drive trim covers it. Fix loose switch (10 min), hydraulics at
 curiosity pace behind floats + insurance.
+- **UPDATE: tab rockers feel like loose CAPS, no click** — Carling Contura-style two-piece
+  (snap cap + switch body behind panel). Pull plate (2 screws) → either (a) bodies dangling
+  w/ wires (snap back in / replace $10-15 ea if lock ears broke), (b) caps only, NO bodies/
+  wires = system de-rigged, orphan like HEAD PWR feed, or (c) bodies dead inside. TRANSOM
+  LOOK NOW FIRST: no tab plates + no wires = no tab system exists, case closed $0.
