@@ -899,3 +899,41 @@ subscription pitch.
   drive, screwdriver-stab stringers — soft transom = scrap price or walk); Mercruiser
   single + Alpha/Bravo = cheap parts; standard bellows/loss-story workup. Awaiting
   listing details for full workup.
+
+## CANDIDATE: 1997 MAXUM 3000 SCR "Blonde's Dinghy" — Copart Haslet lot #62281586 (dive 2026-09-07)
+
+**VERIFIED (lot page via salvageboatsauction.com mirror + 10 photos):**
+- HIN BL2A21MKB797 (plate photo matches; BL2 = Bayliner/US Marine code → Maxum). Dash badge
+  reads MAXUM 3000 SCR. Built Feb 1997, MY1997. TX reg on hull: TX 6166 FC.
+- Copart Ft. Worth = Haslet TX. Sublot "ELEPHANT", 950 Blue Mound Rd W, 76052.
+  **Sale: WED 2026-09-09, 8:00 PM CDT**, NCS Central Region, lane A / item 701.
+  **PURE SALE (no reserve).** Current bid $25. ~70 views.
+- **Title: TX Certificate of Title to a Boat — CLEAN TITLE GROUP (not salvage).**
+- Primary damage: MECHANICAL. Keys: NO. Engine/run status: not stated. NO trailer (on stands).
+- Photos: twin sterndrives, BOTH drives + props on; radar arch w/ speakers; bow rail +
+  anchor pulpit intact; cockpit wet bar/sink; Kohler genset in engine bay; black bottom
+  paint; hull sides scuffed/dirty, moderate waterline stain (NOT the heavy stern-low line
+  our Regal had); gauges fogged/cloudy; loose wire bundle + tape under dash (PO was chasing
+  electrics = our target profile); cushions displaced, engine hatch open. **NO CABIN PHOTOS
+  — interior condition unknown.** Broker fee 5% (min $250) + Copart buyer fees.
+- Specs (HMY/boats.com): 30' hull / ~32'9" LOA w/ platform, 9'11" beam, ~10,200 lb dry,
+  solid-glass hull, mid-cabin; twin Mercruiser 4.3LX 220hp typical (5.0/5.7 options).
+- Comps: 1997 3000 SCR asking $28k-$49k (boats.com/moreboats/dailyboats).
+**INFERRED:** realistic clean-running sale $25-35k. "Mechanical" + dangling helm wiring =
+electrical/no-start story. All-in estimate: hammer $3-6k + fees ~$1k + transport Haslet→
+Hot Springs (~330 mi, 10,200 lb, 9'11" beam = oversize permit; hired hauler ~$1.5-2.5k)
++ parts $3-5k (twins unknown, ignition switches for no-keys ~$30) ≈ $9-14k → 2-3x, not
+10x, but a bigger, genset+arch boat than the Regal. Maxum resale: below Sea Ray, above
+Bayliner. Copart history sites (bidhistory/poctra/stat.vin) all bot-walled — relist
+history unknown.
+**UNFAIR ADVANTAGE: partner lives in Haslet → IN-PERSON PREVIEW Mon/Tue 9/8-9/9** (Copart
+member lot viewing, business hours; confirm the Elephant sublot allows viewing — call
+yard). Inspection list: transom bounce both drives + stringer stab (Maxum = wood-cored
+era); pull BOTH engine dipsticks (milky?); bar each engine over by hand (seized?); bilge
+silt line height (above engine mounts = submersion); CABIN photos (mold/soak = walk);
+genset hour meter; battery date codes; gauge fogging source.
+**WALK-AWAY:** soft transom; both engines milky/seized; cabin destroyed; silt above engines.
+**BID PLAN:** sight-unseen ceiling ~$4,500 hammer; inspection shows engines turn + dry
+cabin → ceiling $7-8k still works. Pre-bidding closes ~2 days before sale.
+**TO-DO NOW:** TPWD boat lookup by HIN (apps.tpwd.state.tx.us/bora — free, needs name/
+address) → owner/lien/registration status + motor records.
