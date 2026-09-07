@@ -937,3 +937,11 @@ genset hour meter; battery date codes; gauge fogging source.
 cabin → ceiling $7-8k still works. Pre-bidding closes ~2 days before sale.
 **TO-DO NOW:** TPWD boat lookup by HIN (apps.tpwd.state.tx.us/bora — free, needs name/
 address) → owner/lien/registration status + motor records.
+- **Relist thread (2026-09-07):** Derek sees DIFFERENT photo sets on other listings of this
+  hull. All public mirrors I can reach serve the same Aug-2026 shoot (image folder
+  lpp/0826, 10 identical hashes); history DBs (bidhistory/poctra/stat.vin/autohelperbot)
+  bot-walled or empty; no retail "Blonde's Dinghy" listing indexed. Different photos =
+  likely a prior Copart run (relist → market already declined at some price) or IAA cycle
+  or a pre-auction owner listing (cabin pics + hours!). NEED FROM DEREK: URLs of the other
+  listings (date them by image folder: 0526/0326 = older shoots) + Copart logged-in
+  "Sale History" on the lot page = prior final bids.
