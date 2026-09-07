@@ -953,3 +953,25 @@ address) → owner/lien/registration status + motor records.
   neglected," not submerged (sniff test in person still decides). Exterior thumbnail shows
   a different yard position = different date. NEED: exact bid.cars lot URL from the Google
   card (tap Visit) → r.jina.ai proxy pulls prior sale date / final bid / photos.
+- **DEEP DIVE RESULTS 2026-09-07 (Google-index snippets via proxy + AutoBidMaster + Copart raw
+  lot JSON via r.jina.ai — the method that gets through Copart's Incapsula wall):**
+  - **Seller = GEICO** (insurance salvage; Google AI-mode summary of broker pages). Copart
+    hides seller on public record (showSeller=false).
+  - **Actual Cash Value on the broker listing: $21,400** (GEICO's pre-loss valuation of
+    this exact boat). Copart public JSON masks it (la=-1).
+  - **AUCTION HISTORY (AutoBidMaster, verified): "Previous auction sales: 2, most recent
+    June 26, 2026."** Google snippet for the June run: "sold / Final bid: $25" = the June
+    sale ended at the $25 opening bid — effectively NO real bidders. Same lot number
+    62281586 carried across runs (Copart relist convention). Copart JSON: lad =
+    2026-07-21 (likely relist/re-add date), lu = 2026-09-04, photos re-shot Aug 2026
+    (lpp/0826) — the June shoot (with the CABIN photo) lives only on bid.cars, whose page
+    for this lot is now 410 Gone (Google still shows its images).
+  - **Now: PURE SALE, sellerReserveMet=true** → GEICO dropped any reserve for run #3.
+    Flags: "Hot Items", "No License Required". Keys: EXEMPT. hasEngine=Y. ~70 views.
+    Sale Wed 9/9 8:00 PM CDT (Sept 10 01:00 UTC), NCS Central, lane A / item 701.
+  - **READ:** market passed on this boat twice (likely on-approval/min-bid runs), now
+    no-reserve on a Wednesday-night boat lane with 70 views → real chance it hammers
+    $1,000-3,000. Bid ceilings from the workup stand ($4.5k blind / $7-8k inspected).
+  - Still unobtainable remotely: June-run photo set + exact prior bids (bid.cars purged;
+    history DBs bot-walled). Derek: tap the Google image card → bid.cars URL; Copart
+    logged-in lot page "Sale History"; TPWD HIN lookup (owner/lien = why GEICO has it).
