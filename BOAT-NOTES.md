@@ -945,3 +945,11 @@ address) → owner/lien/registration status + motor records.
   or a pre-auction owner listing (cabin pics + hours!). NEED FROM DEREK: URLs of the other
   listings (date them by image folder: 0526/0326 = older shoots) + Copart logged-in
   "Sale History" on the lot page = prior final bids.
+- **bid.cars = the second listing.** Google card: "1997 Maxum 3000SCR | BL2A21MKB797 | Bid
+  History | BidCars" with a DIFFERENT photo shoot (cabin interior!). Current-lot URL on
+  bid.cars returns 410 Gone = retired page → prior auction run under another lot number.
+  From the screenshot: cabin = galley/dinette/V-berth/head torn apart, cushions stripped to
+  bare foam, doors open — but NO silt line on sole, headliner + portlights intact → "wet &
+  neglected," not submerged (sniff test in person still decides). Exterior thumbnail shows
+  a different yard position = different date. NEED: exact bid.cars lot URL from the Google
+  card (tap Visit) → r.jina.ai proxy pulls prior sale date / final bid / photos.
