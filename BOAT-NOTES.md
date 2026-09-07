@@ -890,3 +890,12 @@ support hell; software-only wastes the rare combo (bilge-credible AND code-credi
 monitoring install on own boat, let it text through fall → one at-cost friend install for
 the photo set → spring: show up at Hot Springs with flipped boat + portfolio helm +
 subscription pitch.
+- **Candidate boat (2026-09-06): HIN BL2A21MKB797 = BAYLINER** (BL2 = Bayliner MIC;
+  Feb 1997 build, 1997 model year; likely Ciera-series, 2855 = the 2760 lookalike). In
+  Haslet TX (partner's town; Eagle Mountain Lake). VERDICT FORK: as FLIP = bench it —
+  Bayliner resale ceiling ~$15-20k vs Regal $30k+, same work, half the exit (flip criteria
+  stay Sea Ray/Regal/Four Winns). As a KEEPER for Haslet = fine at a low price. 1997
+  Bayliner inspection MUSTS: transom/stringer rot is the brand signature (bounce the
+  drive, screwdriver-stab stringers — soft transom = scrap price or walk); Mercruiser
+  single + Alpha/Bravo = cheap parts; standard bellows/loss-story workup. Awaiting
+  listing details for full workup.
